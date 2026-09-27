@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Painel Escola - Leonardo</title>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 24px; background: #f4f6fb;
+    font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    color: #1f2937;
+  }
+  .topo { display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:8px; margin-bottom: 24px; }
+  h1 { font-size: 1.5rem; margin: 0; }
+  .atualizado { font-size: 0.8rem; color: #6b7280; }
+  h2 { font-size: 1.05rem; margin: 28px 0 12px; color: #374151; }
+  .grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+  .cartao {
+    background: white; border-radius: 12px; padding: 14px 16px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-left: 4px solid #93c5fd;
+  }
+  .cartao.urgente { border-left-color: #f87171; background: #fff7f7; }
+  .cartao.feito { opacity: 0.55; }
+  .cartao.prova { border-left-color: #a78bfa; }
+  .cartao.comunicado { border-left-color: #34d399; }
+  .cartao-topo { display:flex; justify-content:space-between; align-items:center; margin-bottom: 6px; }
+  .tag { font-size: 0.72rem; font-weight: 600; color: #1d4ed8; background:#dbeafe; padding: 2px 8px; border-radius: 999px; }
+  .prova-tag { color:#6d28d9; background:#ede9fe; }
+  .selo.ok { font-size: 0.7rem; background:#d1fae5; color:#065f46; padding:2px 8px; border-radius:999px; }
+  .cartao-titulo { font-weight: 600; margin-bottom: 4px; font-size: 0.92rem; }
+  .cartao-data { font-size: 0.8rem; color: #6b7280; }
+  .vazio { color:#9ca3af; font-size:0.9rem; }
+</style>
+</head>
+<body>
+  <div class="topo">
+    <h1>Painel Escola - Leonardo</h1>
+    <div class="atualizado">Atualizado em 27/09/2026, 20:34:26</div>
+  </div>
+
+  <h2>Tarefas pendentes</h2>
+  <div class="grade">
+    
+    <div class="cartao urgente ">
+      <div class="cartao-topo">
+        <span class="tag">Lingua Portuguesa</span>
+        
+      </div>
+      <div class="cartao-data">23 de setembro - atrasado ha 4 dia(s)</div>
+    </div>
+    <div class="cartao urgente ">
+      <div class="cartao-topo">
+        <span class="tag">Matematica</span>
+        
+      </div>
+      <div class="cartao-data">24 de setembro - atrasado ha 3 dia(s)</div>
+    </div>
+    <div class="cartao urgente ">
+      <div class="cartao-topo">
+        <span class="tag">Lingua Portuguesa</span>
+        
+      </div>
+      <div class="cartao-data">24 de setembro - atrasado ha 3 dia(s)</div>
+    </div>
+    <div class="cartao urgente ">
+      <div class="cartao-topo">
+        <span class="tag">Geografia</span>
+        
+      </div>
+      <div class="cartao-data">25 de setembro - atrasado ha 2 dia(s)</div>
+    </div>
+    <div class="cartao urgente ">
+      <div class="cartao-topo">
+        <span class="tag">Lingua Portuguesa</span>
+        
+      </div>
+      <div class="cartao-data">25 de setembro - atrasado ha 2 dia(s)</div>
+    </div>
+    <div class="cartao urgente ">
+      <div class="cartao-topo">
+        <span class="tag">Matematica</span>
+        
+      </div>
+      <div class="cartao-data">28 de setembro - e para amanha</div>
+    </div>
+    <div class="cartao urgente ">
+      <div class="cartao-topo">
+        <span class="tag">Ciencias</span>
+        
+      </div>
+      <div class="cartao-data">28 de setembro - e para amanha</div>
+    </div>
+    <div class="cartao  ">
+      <div class="cartao-topo">
+        <span class="tag">Historia</span>
+        
+      </div>
+      <div class="cartao-data">29 de setembro - faltam 2 dias</div>
+    </div>
+    <div class="cartao  ">
+      <div class="cartao-topo">
+        <span class="tag">Lingua Portuguesa</span>
+        
+      </div>
+      <div class="cartao-data">30 de setembro - faltam 3 dias</div>
+    </div>
+    <div class="cartao  ">
+      <div class="cartao-topo">
+        <span class="tag">Geografia</span>
+        
+      </div>
+      <div class="cartao-data">2 de outubro - faltam 5 dias</div>
+    </div>
+  </div>
+
+  <h2>Provas</h2>
+  <div class="grade">
+    <div class="vazio">Nenhuma prova futura cadastrada ainda.</div>
+  </div>
+
+  <h2>Comunicados recentes</h2>
+  <div class="grade">
+    
+    <div class="cartao comunicado">
+      <div class="cartao-titulo">Alerta H1N1 - 4º ano B - 2026</div>
+      <div class="cartao-data">24 de setembro</div>
+    </div>
+    <div class="cartao comunicado">
+      <div class="cartao-titulo">OMEP e MATIFC - 2°ano ao 5°ano EF 2026</div>
+      <div class="cartao-data">15 de setembro</div>
+    </div>
+    <div class="cartao comunicado">
+      <div class="cartao-titulo">OLIMPÍADAS DE MATEMÁTICA DA ESCOLA PINHEIRO - 2026(OMEP)</div>
+      <div class="cartao-data">11 de setembro</div>
+    </div>
+    <div class="cartao comunicado">
+      <div class="cartao-titulo">PORTFÓLIO DE AVALIAÇÕES - 2º ao 5º ano EF - 2º trimestre</div>
+      <div class="cartao-data">11 de setembro</div>
+    </div>
+    <div class="cartao comunicado">
+      <div class="cartao-titulo">Excursão 4º ano - Vila dos Smurfs Park - 2026</div>
+      <div class="cartao-data">11 de setembro</div>
+    </div>
+    <div class="cartao comunicado">
+      <div class="cartao-titulo">Futsal chuteiras</div>
+      <div class="cartao-data">9 de setembro</div>
+    </div>
+    <div class="cartao comunicado">
+      <div class="cartao-titulo">JUDÔ_HORÁRIOS DO FESTIVAL E TROCA DE FAIXAS 26/09/2026</div>
+      <div class="cartao-data">8 de setembro</div>
+    </div>
+    <div class="cartao comunicado">
+      <div class="cartao-titulo">3° REUNIÃO DE PAIS - 2º Trimestre / 4º ano B - online</div>
+      <div class="cartao-data">8 de setembro</div>
+    </div>
+    <div class="cartao comunicado">
+      <div class="cartao-titulo">CORAL E CANTO - ENSAIOS Gerais - 3ºs e 4ºs anos</div>
+      <div class="cartao-data">4 de setembro</div>
+    </div>
+    <div class="cartao comunicado">
+      <div class="cartao-titulo">CORAL E CANTO - ENSAIOS Gerais - todas as turmas</div>
+      <div class="cartao-data">4 de setembro</div>
+    </div>
+  </div>
+
+  <h2>Tarefas ja entregues</h2>
+  <div class="grade">
+    <div class="vazio">Nenhuma ainda.</div>
+  </div>
+</body>
+</html>
