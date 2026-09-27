@@ -1,0 +1,47 @@
+name: Sincronizar SmartSchool com Google Agenda
+
+on:
+  schedule:
+    - cron: "0 11 * * *"
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  sincronizar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Instalar dependencias
+        working-directory: smartschool-sync
+        run: npm install
+
+      - name: Instalar navegador
+        working-directory: smartschool-sync
+        run: npx playwright install --with-deps chromium
+
+      - name: Rodar sincronizacao
+        working-directory: smartschool-sync
+        env:
+          SMARTSCHOOL_LOGIN: ${{ secrets.SMARTSCHOOL_LOGIN }}
+          SMARTSCHOOL_SENHA: ${{ secrets.SMARTSCHOOL_SENHA }}
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+        run: npm run sync
+
+      - name: Salvar estado atualizado
+        run: |
+          git config user.name "smartschool-bot"
+          git config user.email "smartschool-bot@users.noreply.github.com"
+          git add smartschool-sync/estado.json
+          git diff --cached --quiet || git commit -m "Atualiza estado da sincronizacao SmartSchool"
+          git push
