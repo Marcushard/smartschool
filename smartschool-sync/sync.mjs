@@ -104,15 +104,48 @@ async function coletarAtividades(page) {
       if (dataEntrega.mes < mesPub - 6) dataEntrega.ano += 1;
     }
 
+    const situacao = linha[8] || "";
+    const realizada = (linha[11] || "").toLowerCase() === "sim";
+
     eventos.push({
       id: `ativ-${codigo}`,
       tipo: "atividade",
       titulo: `Entrega de atividade: ${nomeDisciplina(disciplina)}`,
+      disciplina: nomeDisciplina(disciplina),
       dataISO: formatarISO(dataEntrega),
       lembretesMinutosAntes: [24 * 60],
+      realizada,
+      situacao,
     });
   }
   return eventos;
+}
+
+async function coletarComunicados(page) {
+  await page.goto("https://smartschoolweb.com.br/SmartSchoolWeb/Comunicado/IdxComunicado", {
+    waitUntil: "networkidle",
+  });
+  const linhas = await page
+    .$eval("#gvListaComunicado_DXMainTable", (tabela) =>
+      Array.from(tabela.rows).map((r) => Array.from(r.cells).map((c) => c.innerText.trim()))
+    )
+    .catch(() => []);
+
+  const anoAtual = new Date().getFullYear();
+  const itens = [];
+  for (const linha of linhas) {
+    const titulo = linha[1];
+    const dataTexto = linha[2];
+    if (!titulo || !dataTexto || titulo === "Comunicado") continue;
+    const data = parseDataCurta(dataTexto, anoAtual);
+    itens.push({
+      id: `com-${chaveUnica(titulo + dataTexto)}`,
+      tipo: "comunicado",
+      titulo,
+      dataISO: data ? formatarISO(data) : null,
+    });
+  }
+  return itens;
 }
 
 async function coletarAvaliacoes(page) {
@@ -140,6 +173,8 @@ async function coletarAvaliacoes(page) {
       id: `aval-${chave}`,
       tipo: "avaliacao",
       titulo: `Prova: ${disciplina} - ${titulo}`,
+      disciplina,
+      nomeAvaliacao: titulo,
       dataISO: formatarISO({ ano: anoAtual, mes, dia: parseInt(dia, 10) }),
       lembretesMinutosAntes: [3 * 24 * 60, 24 * 60],
     });
@@ -195,6 +230,9 @@ async function main() {
   console.log("Lendo avaliações...");
   const avaliacoes = await coletarAvaliacoes(page);
 
+  console.log("Lendo comunicados...");
+  const comunicados = await coletarComunicados(page);
+
   await browser.close();
 
   const todosEventos = [...atividades, ...avaliacoes];
@@ -213,6 +251,15 @@ async function main() {
   }
 
   salvarEstado(estado);
+
+  const dados = {
+    atualizadoEm: new Date().toISOString(),
+    atividades,
+    avaliacoes,
+    comunicados,
+  };
+  writeFileSync(new URL("./dados.json", import.meta.url), JSON.stringify(dados, null, 2) + "\n");
+
   console.log(`Concluido. ${novos} evento(s) novo(s) de ${todosEventos.length} encontrados.`);
 }
 

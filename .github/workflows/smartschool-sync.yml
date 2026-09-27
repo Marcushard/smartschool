@@ -42,6 +42,6 @@ jobs:
         run: |
           git config user.name "smartschool-bot"
           git config user.email "smartschool-bot@users.noreply.github.com"
-          git add smartschool-sync/estado.json
+          git add smartschool-sync/estado.json smartschool-sync/dados.json
           git diff --cached --quiet || git commit -m "Atualiza estado da sincronizacao SmartSchool"
           git push
