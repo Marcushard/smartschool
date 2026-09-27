@@ -109,6 +109,7 @@ async function coletarAtividades(page) {
 
     eventos.push({
       id: `ativ-${codigo}`,
+      codigo,
       tipo: "atividade",
       titulo: `Entrega de atividade: ${nomeDisciplina(disciplina)}`,
       disciplina: nomeDisciplina(disciplina),
@@ -119,6 +120,36 @@ async function coletarAtividades(page) {
     });
   }
   return eventos;
+}
+
+async function coletarDetalheAtividade(page, codigo) {
+  try {
+    await page.evaluate((cod) => {
+      document.getElementById(`butDetalhe_${cod}`)?.click();
+    }, codigo);
+    await page.waitForSelector("#txtDisciplina_PopL_I", { timeout: 4000 });
+    await page.waitForTimeout(300);
+
+    const detalhe = await page.evaluate(() => {
+      const val = (id) => document.getElementById(id)?.value || "";
+      const conteudoEl = document.getElementById("rpContLicaoCasa_PopL_RPC");
+      return {
+        professor: val("txtProfessor_PopL_I"),
+        tipoEntrega: val("txtTipoEntrega_PopL_I"),
+        trabalho: val("txtTrabalho_PopL_I"),
+        conteudo: conteudoEl ? conteudoEl.innerText.trim() : "",
+      };
+    });
+
+    await page.evaluate(() => {
+      document.querySelector(".dxpc-closeBtn")?.click();
+    });
+    await page.waitForTimeout(300);
+    return detalhe;
+  } catch (e) {
+    console.error(`Nao consegui abrir detalhe da atividade ${codigo}:`, e.message);
+    return null;
+  }
 }
 
 async function coletarComunicados(page) {
@@ -238,15 +269,28 @@ function escapeHTML(s) {
   return String(s || "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 }
 
-function cartaoAtividade(a) {
+function cartaoAtividade(a, idx) {
   const urgente = diasRestantes(a.dataISO) !== null && diasRestantes(a.dataISO) <= 1;
+  const modalId = `modal-ativ-${idx}`;
   return `
-    <div class="cartao ${urgente ? "urgente" : ""} ${a.realizada ? "feito" : ""}">
+    <div class="cartao clicavel ${urgente ? "urgente" : ""} ${a.realizada ? "feito" : ""}" onclick="document.getElementById('${modalId}').classList.add('aberto')">
       <div class="cartao-topo">
         <span class="tag">${escapeHTML(a.disciplina)}</span>
         ${a.realizada ? '<span class="selo ok">Feita</span>' : ""}
       </div>
       <div class="cartao-data">${formatarDataLonga(a.dataISO)} - ${rotuloPrazo(a.dataISO)}</div>
+      ${a.tipoEntrega ? `<div class="cartao-rodape">${escapeHTML(a.tipoEntrega)}</div>` : ""}
+    </div>
+    <div class="modal-fundo" id="${modalId}" onclick="if(event.target===this) this.classList.remove('aberto')">
+      <div class="modal-caixa">
+        <div class="modal-fechar" onclick="document.getElementById('${modalId}').classList.remove('aberto')">&times;</div>
+        <h3>${escapeHTML(a.disciplina)}</h3>
+        <div class="modal-linha"><b>Entrega:</b> ${formatarDataLonga(a.dataISO)} (${rotuloPrazo(a.dataISO)})</div>
+        ${a.professor ? `<div class="modal-linha"><b>Professor:</b> ${escapeHTML(a.professor)}</div>` : ""}
+        ${a.tipoEntrega ? `<div class="modal-linha"><b>Onde fazer:</b> ${escapeHTML(a.tipoEntrega)}</div>` : ""}
+        ${a.trabalho ? `<div class="modal-linha"><b>E trabalho valendo nota:</b> ${escapeHTML(a.trabalho)}</div>` : ""}
+        ${a.conteudo ? `<div class="modal-conteudo">${escapeHTML(a.conteudo).replace(/\n/g, "<br>")}</div>` : '<div class="modal-conteudo vazio">O professor nao escreveu detalhes adicionais para esta atividade.</div>'}
+      </div>
     </div>`;
 }
 
@@ -310,7 +354,24 @@ function gerarPainelHTML(dados) {
   .selo.ok { font-size: 0.7rem; background:#d1fae5; color:#065f46; padding:2px 8px; border-radius:999px; }
   .cartao-titulo { font-weight: 600; margin-bottom: 4px; font-size: 0.92rem; }
   .cartao-data { font-size: 0.8rem; color: #6b7280; }
+  .cartao-rodape { margin-top:6px; font-size:0.72rem; color:#9ca3af; }
   .vazio { color:#9ca3af; font-size:0.9rem; }
+  .clicavel { cursor: pointer; transition: transform 0.1s; }
+  .clicavel:hover { transform: translateY(-2px); box-shadow: 0 4px 10px rgba(0,0,0,0.12); }
+  .modal-fundo {
+    display:none; position:fixed; inset:0; background:rgba(17,24,39,0.45);
+    align-items:center; justify-content:center; padding:20px; z-index:50;
+  }
+  .modal-fundo.aberto { display:flex; }
+  .modal-caixa {
+    background:white; border-radius:14px; padding:22px; max-width:480px; width:100%;
+    max-height:80vh; overflow-y:auto; position:relative; box-shadow:0 10px 30px rgba(0,0,0,0.25);
+  }
+  .modal-caixa h3 { margin:0 0 12px; font-size:1.1rem; }
+  .modal-fechar { position:absolute; top:14px; right:18px; cursor:pointer; font-size:1.3rem; color:#9ca3af; }
+  .modal-linha { font-size:0.88rem; margin-bottom:8px; color:#374151; }
+  .modal-conteudo { margin-top:12px; padding-top:12px; border-top:1px solid #e5e7eb; font-size:0.86rem; color:#374151; white-space:normal; }
+  .modal-conteudo.vazio { color:#9ca3af; font-style:italic; }
 </style>
 </head>
 <body>
@@ -321,7 +382,7 @@ function gerarPainelHTML(dados) {
 
   <h2>Tarefas pendentes</h2>
   <div class="grade">
-    ${atividadesOrdenadas.filter(a => !a.realizada).map(cartaoAtividade).join("") || '<div class="vazio">Nenhuma tarefa pendente.</div>'}
+    ${atividadesOrdenadas.filter(a => !a.realizada).map((a,i) => cartaoAtividade(a, "p"+i)).join("") || '<div class="vazio">Nenhuma tarefa pendente.</div>'}
   </div>
 
   <h2>Provas</h2>
@@ -336,7 +397,7 @@ function gerarPainelHTML(dados) {
 
   <h2>Tarefas ja entregues</h2>
   <div class="grade">
-    ${atividadesOrdenadas.filter(a => a.realizada).map(cartaoAtividade).join("") || '<div class="vazio">Nenhuma ainda.</div>'}
+    ${atividadesOrdenadas.filter(a => a.realizada).map((a,i) => cartaoAtividade(a, "f"+i)).join("") || '<div class="vazio">Nenhuma ainda.</div>'}
   </div>
 </body>
 </html>`;
@@ -362,6 +423,12 @@ async function main() {
 
   console.log("Lendo atividades...");
   const atividades = await coletarAtividades(page);
+
+  console.log("Lendo detalhes de cada atividade...");
+  for (const a of atividades) {
+    const detalhe = await coletarDetalheAtividade(page, a.codigo);
+    if (detalhe) Object.assign(a, detalhe);
+  }
 
   console.log("Lendo avaliações...");
   const avaliacoes = await coletarAvaliacoes(page);
