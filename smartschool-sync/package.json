@@ -1,0 +1,14 @@
+{
+  "name": "smartschool-calendar-sync",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "sync": "node sync.mjs",
+    "obter-token": "node obter-token.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0",
+    "googleapis": "^144.0.0"
+  }
+}
