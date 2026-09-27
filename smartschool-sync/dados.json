@@ -1,1 +1,188 @@
-{}
+{
+  "atualizadoEm": "2026-09-27T23:13:27.090Z",
+  "atividades": [
+    {
+      "id": "ativ-174436",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Geografia",
+      "disciplina": "Geografia",
+      "dataISO": "2026-10-02",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão"
+    },
+    {
+      "id": "ativ-174439",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-09-30",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão"
+    },
+    {
+      "id": "ativ-174163",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
+      "dataISO": "2026-09-29",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão"
+    },
+    {
+      "id": "ativ-174337",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-09-28",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão"
+    },
+    {
+      "id": "ativ-174082",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Ciencias",
+      "disciplina": "Ciencias",
+      "dataISO": "2026-09-28",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão"
+    },
+    {
+      "id": "ativ-174017",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Geografia",
+      "disciplina": "Geografia",
+      "dataISO": "2026-09-25",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão"
+    },
+    {
+      "id": "ativ-174331",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-09-25",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão"
+    },
+    {
+      "id": "ativ-174261",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-09-24",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão"
+    },
+    {
+      "id": "ativ-174264",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-09-24",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão"
+    },
+    {
+      "id": "ativ-174014",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-09-23",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão"
+    }
+  ],
+  "avaliacoes": [],
+  "comunicados": [
+    {
+      "id": "com-ef5bd62c020fbc9b",
+      "tipo": "comunicado",
+      "titulo": "Alerta H1N1 - 4º ano B - 2026",
+      "dataISO": "2026-09-24"
+    },
+    {
+      "id": "com-ee7afc4b1482c344",
+      "tipo": "comunicado",
+      "titulo": "OMEP e MATIFC - 2°ano ao 5°ano EF 2026",
+      "dataISO": "2026-09-15"
+    },
+    {
+      "id": "com-115ae557c2d6c1d2",
+      "tipo": "comunicado",
+      "titulo": "OLIMPÍADAS DE MATEMÁTICA DA ESCOLA PINHEIRO - 2026(OMEP)",
+      "dataISO": "2026-09-11"
+    },
+    {
+      "id": "com-f558fe5272717c88",
+      "tipo": "comunicado",
+      "titulo": "PORTFÓLIO DE AVALIAÇÕES - 2º ao 5º ano EF - 2º trimestre",
+      "dataISO": "2026-09-11"
+    },
+    {
+      "id": "com-b510c72d9b31c4d3",
+      "tipo": "comunicado",
+      "titulo": "Excursão 4º ano - Vila dos Smurfs Park - 2026",
+      "dataISO": "2026-09-11"
+    },
+    {
+      "id": "com-45b192d1f5623e14",
+      "tipo": "comunicado",
+      "titulo": "Futsal chuteiras",
+      "dataISO": "2026-09-09"
+    },
+    {
+      "id": "com-af4e4bc42b2f686e",
+      "tipo": "comunicado",
+      "titulo": "JUDÔ_HORÁRIOS DO FESTIVAL E TROCA DE FAIXAS 26/09/2026",
+      "dataISO": "2026-09-08"
+    },
+    {
+      "id": "com-1a1555607ec801e4",
+      "tipo": "comunicado",
+      "titulo": "3° REUNIÃO DE PAIS - 2º Trimestre / 4º ano B - online",
+      "dataISO": "2026-09-08"
+    },
+    {
+      "id": "com-c6872e1708bd8725",
+      "tipo": "comunicado",
+      "titulo": "CORAL E CANTO - ENSAIOS Gerais - 3ºs e 4ºs anos",
+      "dataISO": "2026-09-04"
+    },
+    {
+      "id": "com-74c6b675142b520d",
+      "tipo": "comunicado",
+      "titulo": "CORAL E CANTO - ENSAIOS Gerais - todas as turmas",
+      "dataISO": "2026-09-04"
+    }
+  ]
+}
