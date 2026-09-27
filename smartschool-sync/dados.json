@@ -1,8 +1,9 @@
 {
-  "atualizadoEm": "2026-09-27T23:34:26.558Z",
+  "atualizadoEm": "2026-09-27T23:42:12.761Z",
   "atividades": [
     {
       "id": "ativ-174436",
+      "codigo": "174436",
       "tipo": "atividade",
       "titulo": "Entrega de atividade: Geografia",
       "disciplina": "Geografia",
@@ -11,10 +12,15 @@
         1440
       ],
       "realizada": false,
-      "situacao": "Padrão"
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Copiar com capricho: https://docs.google.com/document/d/1MZJzuMVogbJuDJ17KJgPt0rU1ck-TuuuMtOF5eCR0R4/edit?usp=sharing"
     },
     {
       "id": "ativ-174439",
+      "codigo": "174439",
       "tipo": "atividade",
       "titulo": "Entrega de atividade: Lingua Portuguesa",
       "disciplina": "Lingua Portuguesa",
@@ -23,10 +29,15 @@
         1440
       ],
       "realizada": false,
-      "situacao": "Padrão"
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Copiar o texto no caderno: https://docs.google.com/document/d/1hH6cQoZZ3I47FqcuJj-u9-EkPZnNckttWeROE6yRAj0/edit?usp=sharing\n\nRealizar o Desafio do Leitor de Setembro"
     },
     {
       "id": "ativ-174163",
+      "codigo": "174163",
       "tipo": "atividade",
       "titulo": "Entrega de atividade: Historia",
       "disciplina": "Historia",
@@ -35,10 +46,15 @@
         1440
       ],
       "realizada": false,
-      "situacao": "Padrão"
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Um desafio para vocês! Façam uma pesquisa e organizem uma linha do\ntempo contando a história dos meios de comunicação: correios, telégrafo,\ntelefone, rádio, televisão e internet."
     },
     {
       "id": "ativ-174337",
+      "codigo": "174337",
       "tipo": "atividade",
       "titulo": "Entrega de atividade: Matematica",
       "disciplina": "Matematica",
@@ -47,10 +63,15 @@
         1440
       ],
       "realizada": false,
-      "situacao": "Padrão"
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "https://docs.google.com/document/d/1CFo2LGguOnrGN0kTiGVZRZB_wvCXtUUFgvcKa4DdEys/edit?tab=t.0"
     },
     {
       "id": "ativ-174082",
+      "codigo": "174082",
       "tipo": "atividade",
       "titulo": "Entrega de atividade: Ciencias",
       "disciplina": "Ciencias",
@@ -59,10 +80,15 @@
         1440
       ],
       "realizada": false,
-      "situacao": "Padrão"
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Enviar o livro páginas 114 e 115. Fazer o cabeçalho no caderno, pintar uma linha e escrever: Atividade do livro páginas 114 e 115 \"Para começo de conversa\". Realizar as questões 1, 2, 3 da página 115. Copiar os enunciados à caneta e responder as questões a lápis.\nEnviar O FAÇA páginas 21 e 23, realizar a dobradura e colar no caderno."
     },
     {
       "id": "ativ-174017",
+      "codigo": "174017",
       "tipo": "atividade",
       "titulo": "Entrega de atividade: Geografia",
       "disciplina": "Geografia",
@@ -71,10 +97,15 @@
         1440
       ],
       "realizada": false,
-      "situacao": "Padrão"
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pgs 118 e 119."
     },
     {
       "id": "ativ-174331",
+      "codigo": "174331",
       "tipo": "atividade",
       "titulo": "Entrega de atividade: Lingua Portuguesa",
       "disciplina": "Lingua Portuguesa",
@@ -83,10 +114,15 @@
         1440
       ],
       "realizada": false,
-      "situacao": "Padrão"
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Atividade no caderno sobre o livro Kiese."
     },
     {
       "id": "ativ-174261",
+      "codigo": "174261",
       "tipo": "atividade",
       "titulo": "Entrega de atividade: Matematica",
       "disciplina": "Matematica",
@@ -95,10 +131,15 @@
         1440
       ],
       "realizada": false,
-      "situacao": "Padrão"
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "https://docs.google.com/document/d/1YZw-E1wcpEXZJ5BVPF3UZJt3iWFIqMcQP38z8SO_W0s/edit?usp=sharing"
     },
     {
       "id": "ativ-174264",
+      "codigo": "174264",
       "tipo": "atividade",
       "titulo": "Entrega de atividade: Lingua Portuguesa",
       "disciplina": "Lingua Portuguesa",
@@ -107,10 +148,15 @@
         1440
       ],
       "realizada": false,
-      "situacao": "Padrão"
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Realizar atividade de relato pessoal no caderno."
     },
     {
       "id": "ativ-174014",
+      "codigo": "174014",
       "tipo": "atividade",
       "titulo": "Entrega de atividade: Lingua Portuguesa",
       "disciplina": "Lingua Portuguesa",
@@ -119,7 +165,11 @@
         1440
       ],
       "realizada": false,
-      "situacao": "Padrão"
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Jogo de fixação :\n\nhttps://docs.google.com/document/d/1boRvyZ83yvNyz3aJlkWY0RigZW53riT19sevus6WNSY/edit?usp=sharing"
     }
   ],
   "avaliacoes": [],
