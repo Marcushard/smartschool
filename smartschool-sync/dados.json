@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-27T23:42:12.761Z",
+  "atualizadoEm": "2026-09-28T01:20:30.406Z",
   "atividades": [
     {
       "id": "ativ-174436",
@@ -121,23 +121,6 @@
       "conteudo": "Atividade no caderno sobre o livro Kiese."
     },
     {
-      "id": "ativ-174261",
-      "codigo": "174261",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-09-24",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "https://docs.google.com/document/d/1YZw-E1wcpEXZJ5BVPF3UZJt3iWFIqMcQP38z8SO_W0s/edit?usp=sharing"
-    },
-    {
       "id": "ativ-174264",
       "codigo": "174264",
       "tipo": "atividade",
@@ -153,6 +136,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Realizar atividade de relato pessoal no caderno."
+    },
+    {
+      "id": "ativ-174261",
+      "codigo": "174261",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-09-24",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "https://docs.google.com/document/d/1YZw-E1wcpEXZJ5BVPF3UZJt3iWFIqMcQP38z8SO_W0s/edit?usp=sharing"
     },
     {
       "id": "ativ-174014",
