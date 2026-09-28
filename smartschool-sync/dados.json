@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-09-28T01:20:30.406Z",
+  "atualizadoEm": "2026-09-28T18:20:19.545Z",
   "atividades": [
+    {
+      "id": "ativ-174551",
+      "codigo": "174551",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Ciencias",
+      "disciplina": "Ciencias",
+      "dataISO": "2026-10-05",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Realizar página 120 e caderno: https://docs.google.com/document/d/1wq8jvTUjSrOlayrAEHXja4abwIw4S_V1Y-6jGnws0-Y/edit?tab=t.0"
+    },
     {
       "id": "ativ-174436",
       "codigo": "174436",
@@ -51,6 +68,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Um desafio para vocês! Façam uma pesquisa e organizem uma linha do\ntempo contando a história dos meios de comunicação: correios, telégrafo,\ntelefone, rádio, televisão e internet."
+    },
+    {
+      "id": "ativ-174554",
+      "codigo": "174554",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-09-29",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar página 246 + Matific"
     },
     {
       "id": "ativ-174337",
@@ -121,23 +155,6 @@
       "conteudo": "Atividade no caderno sobre o livro Kiese."
     },
     {
-      "id": "ativ-174264",
-      "codigo": "174264",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-09-24",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Realizar atividade de relato pessoal no caderno."
-    },
-    {
       "id": "ativ-174261",
       "codigo": "174261",
       "tipo": "atividade",
@@ -153,23 +170,6 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "https://docs.google.com/document/d/1YZw-E1wcpEXZJ5BVPF3UZJt3iWFIqMcQP38z8SO_W0s/edit?usp=sharing"
-    },
-    {
-      "id": "ativ-174014",
-      "codigo": "174014",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-09-23",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Jogo de fixação :\n\nhttps://docs.google.com/document/d/1boRvyZ83yvNyz3aJlkWY0RigZW53riT19sevus6WNSY/edit?usp=sharing"
     }
   ],
   "avaliacoes": [],
