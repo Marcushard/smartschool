@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-29T02:26:54.458Z",
+  "atualizadoEm": "2026-09-29T16:43:33.382Z",
   "atividades": [
     {
       "id": "ativ-174551",
@@ -53,12 +53,12 @@
       "conteudo": "Copiar o texto no caderno: https://docs.google.com/document/d/1hH6cQoZZ3I47FqcuJj-u9-EkPZnNckttWeROE6yRAj0/edit?usp=sharing\n\nRealizar o Desafio do Leitor de Setembro"
     },
     {
-      "id": "ativ-174163",
-      "codigo": "174163",
+      "id": "ativ-174641",
+      "codigo": "174641",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
-      "dataISO": "2026-09-29",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-09-30",
       "lembretesMinutosAntes": [
         1440
       ],
@@ -67,7 +67,7 @@
       "professor": "Daniela Messora Barranco",
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
-      "conteudo": "Um desafio para vocês! Façam uma pesquisa e organizem uma linha do\ntempo contando a história dos meios de comunicação: correios, telégrafo,\ntelefone, rádio, televisão e internet."
+      "conteudo": "https://docs.google.com/document/d/14QLSHwIyIO1yJpM9uY8wqGORxq6ZbFI6DnXdoo1KLfA/edit?tab=t.0"
     },
     {
       "id": "ativ-174554",
@@ -87,12 +87,12 @@
       "conteudo": "Realizar página 246 + Matific"
     },
     {
-      "id": "ativ-174337",
-      "codigo": "174337",
+      "id": "ativ-174163",
+      "codigo": "174163",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-09-28",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
+      "dataISO": "2026-09-29",
       "lembretesMinutosAntes": [
         1440
       ],
@@ -101,7 +101,7 @@
       "professor": "Daniela Messora Barranco",
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
-      "conteudo": "https://docs.google.com/document/d/1CFo2LGguOnrGN0kTiGVZRZB_wvCXtUUFgvcKa4DdEys/edit?tab=t.0"
+      "conteudo": "Um desafio para vocês! Façam uma pesquisa e organizem uma linha do\ntempo contando a história dos meios de comunicação: correios, telégrafo,\ntelefone, rádio, televisão e internet."
     },
     {
       "id": "ativ-174082",
@@ -119,6 +119,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Enviar o livro páginas 114 e 115. Fazer o cabeçalho no caderno, pintar uma linha e escrever: Atividade do livro páginas 114 e 115 \"Para começo de conversa\". Realizar as questões 1, 2, 3 da página 115. Copiar os enunciados à caneta e responder as questões a lápis.\nEnviar O FAÇA páginas 21 e 23, realizar a dobradura e colar no caderno."
+    },
+    {
+      "id": "ativ-174337",
+      "codigo": "174337",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-09-28",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "https://docs.google.com/document/d/1CFo2LGguOnrGN0kTiGVZRZB_wvCXtUUFgvcKa4DdEys/edit?tab=t.0"
     },
     {
       "id": "ativ-174017",
@@ -153,23 +170,6 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Atividade no caderno sobre o livro Kiese."
-    },
-    {
-      "id": "ativ-174261",
-      "codigo": "174261",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-09-24",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "https://docs.google.com/document/d/1YZw-E1wcpEXZJ5BVPF3UZJt3iWFIqMcQP38z8SO_W0s/edit?usp=sharing"
     }
   ],
   "avaliacoes": [],
