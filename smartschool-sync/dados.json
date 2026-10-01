@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-01T01:44:14.358Z",
+  "atualizadoEm": "2026-10-01T17:23:25.884Z",
   "atividades": [
     {
       "id": "ativ-174551",
@@ -36,12 +36,12 @@
       "conteudo": "Copiar com capricho: https://docs.google.com/document/d/1MZJzuMVogbJuDJ17KJgPt0rU1ck-TuuuMtOF5eCR0R4/edit?usp=sharing"
     },
     {
-      "id": "ativ-174715",
-      "codigo": "174715",
+      "id": "ativ-174785",
+      "codigo": "174785",
       "tipo": "atividade",
       "titulo": "Entrega de atividade: Lingua Portuguesa",
       "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-01",
+      "dataISO": "2026-10-02",
       "lembretesMinutosAntes": [
         1440
       ],
@@ -50,7 +50,7 @@
       "professor": "Daniela Messora Barranco",
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
-      "conteudo": "https://docs.google.com/document/d/1-YDtzrY1ZF0fqrmd-qAZ-GWDFpKziWlAo3Y2dv88sjw/edit?usp=sharing"
+      "conteudo": "Realizar atividade no caderno."
     },
     {
       "id": "ativ-174718",
@@ -68,6 +68,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar pgs 250 e 251. Matific."
+    },
+    {
+      "id": "ativ-174715",
+      "codigo": "174715",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-10-01",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "https://docs.google.com/document/d/1-YDtzrY1ZF0fqrmd-qAZ-GWDFpKziWlAo3Y2dv88sjw/edit?usp=sharing"
     },
     {
       "id": "ativ-174439",
@@ -104,23 +121,6 @@
       "conteudo": "https://docs.google.com/document/d/14QLSHwIyIO1yJpM9uY8wqGORxq6ZbFI6DnXdoo1KLfA/edit?tab=t.0"
     },
     {
-      "id": "ativ-174554",
-      "codigo": "174554",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-09-29",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar página 246 + Matific"
-    },
-    {
       "id": "ativ-174163",
       "codigo": "174163",
       "tipo": "atividade",
@@ -138,21 +138,21 @@
       "conteudo": "Um desafio para vocês! Façam uma pesquisa e organizem uma linha do\ntempo contando a história dos meios de comunicação: correios, telégrafo,\ntelefone, rádio, televisão e internet."
     },
     {
-      "id": "ativ-174337",
-      "codigo": "174337",
+      "id": "ativ-174554",
+      "codigo": "174554",
       "tipo": "atividade",
       "titulo": "Entrega de atividade: Matematica",
       "disciplina": "Matematica",
-      "dataISO": "2026-09-28",
+      "dataISO": "2026-09-29",
       "lembretesMinutosAntes": [
         1440
       ],
       "realizada": false,
       "situacao": "Padrão",
       "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
+      "tipoEntrega": "Livro",
       "trabalho": "Não",
-      "conteudo": "https://docs.google.com/document/d/1CFo2LGguOnrGN0kTiGVZRZB_wvCXtUUFgvcKa4DdEys/edit?tab=t.0"
+      "conteudo": "Realizar página 246 + Matific"
     },
     {
       "id": "ativ-174082",
@@ -175,13 +175,13 @@
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-10504850c50ca3aa",
+      "id": "com-32c089ee2fc49c3a",
       "tipo": "comunicado",
       "titulo": "Rematrículas - 2027",
       "dataISO": "2026-09-29"
     },
     {
-      "id": "com-0e518138d3d11082",
+      "id": "com-5922f0c559ae5138",
       "tipo": "comunicado",
       "titulo": "Semana das Crianças - 4º ano - 2026",
       "dataISO": "2026-09-29"
