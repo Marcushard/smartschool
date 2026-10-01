@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-30T16:35:20.865Z",
+  "atualizadoEm": "2026-10-01T01:44:14.358Z",
   "atividades": [
     {
       "id": "ativ-174551",
@@ -175,6 +175,12 @@
   "avaliacoes": [],
   "comunicados": [
     {
+      "id": "com-10504850c50ca3aa",
+      "tipo": "comunicado",
+      "titulo": "Rematrículas - 2027",
+      "dataISO": "2026-09-29"
+    },
+    {
       "id": "com-0e518138d3d11082",
       "tipo": "comunicado",
       "titulo": "Semana das Crianças - 4º ano - 2026",
@@ -227,12 +233,6 @@
       "tipo": "comunicado",
       "titulo": "3° REUNIÃO DE PAIS - 2º Trimestre / 4º ano B - online",
       "dataISO": "2026-09-08"
-    },
-    {
-      "id": "com-c6872e1708bd8725",
-      "tipo": "comunicado",
-      "titulo": "CORAL E CANTO - ENSAIOS Gerais - 3ºs e 4ºs anos",
-      "dataISO": "2026-09-04"
     }
   ]
 }
