@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-01T17:23:25.884Z",
+  "atualizadoEm": "2026-10-02T01:55:02.218Z",
   "atividades": [
     {
       "id": "ativ-174551",
@@ -175,6 +175,12 @@
   "avaliacoes": [],
   "comunicados": [
     {
+      "id": "com-adbd6932eb62a174",
+      "tipo": "comunicado",
+      "titulo": "Solicitação de Documentação - Secretaria",
+      "dataISO": "2026-10-01"
+    },
+    {
       "id": "com-32c089ee2fc49c3a",
       "tipo": "comunicado",
       "titulo": "Rematrículas - 2027",
@@ -226,12 +232,6 @@
       "id": "com-af4e4bc42b2f686e",
       "tipo": "comunicado",
       "titulo": "JUDÔ_HORÁRIOS DO FESTIVAL E TROCA DE FAIXAS 26/09/2026",
-      "dataISO": "2026-09-08"
-    },
-    {
-      "id": "com-1a1555607ec801e4",
-      "tipo": "comunicado",
-      "titulo": "3° REUNIÃO DE PAIS - 2º Trimestre / 4º ano B - online",
       "dataISO": "2026-09-08"
     }
   ]
