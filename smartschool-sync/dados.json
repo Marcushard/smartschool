@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-02T01:55:02.218Z",
+  "atualizadoEm": "2026-10-02T16:27:01.275Z",
   "atividades": [
     {
       "id": "ativ-174551",
@@ -19,23 +19,6 @@
       "conteudo": "Realizar página 120 e caderno: https://docs.google.com/document/d/1wq8jvTUjSrOlayrAEHXja4abwIw4S_V1Y-6jGnws0-Y/edit?tab=t.0"
     },
     {
-      "id": "ativ-174436",
-      "codigo": "174436",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Geografia",
-      "disciplina": "Geografia",
-      "dataISO": "2026-10-02",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Copiar com capricho: https://docs.google.com/document/d/1MZJzuMVogbJuDJ17KJgPt0rU1ck-TuuuMtOF5eCR0R4/edit?usp=sharing"
-    },
-    {
       "id": "ativ-174785",
       "codigo": "174785",
       "tipo": "atividade",
@@ -51,6 +34,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Realizar atividade no caderno."
+    },
+    {
+      "id": "ativ-174436",
+      "codigo": "174436",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Geografia",
+      "disciplina": "Geografia",
+      "dataISO": "2026-10-02",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Copiar com capricho: https://docs.google.com/document/d/1MZJzuMVogbJuDJ17KJgPt0rU1ck-TuuuMtOF5eCR0R4/edit?usp=sharing"
     },
     {
       "id": "ativ-174718",
@@ -87,23 +87,6 @@
       "conteudo": "https://docs.google.com/document/d/1-YDtzrY1ZF0fqrmd-qAZ-GWDFpKziWlAo3Y2dv88sjw/edit?usp=sharing"
     },
     {
-      "id": "ativ-174439",
-      "codigo": "174439",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-09-30",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Copiar o texto no caderno: https://docs.google.com/document/d/1hH6cQoZZ3I47FqcuJj-u9-EkPZnNckttWeROE6yRAj0/edit?usp=sharing\n\nRealizar o Desafio do Leitor de Setembro"
-    },
-    {
       "id": "ativ-174641",
       "codigo": "174641",
       "tipo": "atividade",
@@ -121,12 +104,12 @@
       "conteudo": "https://docs.google.com/document/d/14QLSHwIyIO1yJpM9uY8wqGORxq6ZbFI6DnXdoo1KLfA/edit?tab=t.0"
     },
     {
-      "id": "ativ-174163",
-      "codigo": "174163",
+      "id": "ativ-174439",
+      "codigo": "174439",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
-      "dataISO": "2026-09-29",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-09-30",
       "lembretesMinutosAntes": [
         1440
       ],
@@ -135,7 +118,7 @@
       "professor": "Daniela Messora Barranco",
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
-      "conteudo": "Um desafio para vocês! Façam uma pesquisa e organizem uma linha do\ntempo contando a história dos meios de comunicação: correios, telégrafo,\ntelefone, rádio, televisão e internet."
+      "conteudo": "Copiar o texto no caderno: https://docs.google.com/document/d/1hH6cQoZZ3I47FqcuJj-u9-EkPZnNckttWeROE6yRAj0/edit?usp=sharing\n\nRealizar o Desafio do Leitor de Setembro"
     },
     {
       "id": "ativ-174554",
@@ -153,6 +136,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar página 246 + Matific"
+    },
+    {
+      "id": "ativ-174163",
+      "codigo": "174163",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
+      "dataISO": "2026-09-29",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Um desafio para vocês! Façam uma pesquisa e organizem uma linha do\ntempo contando a história dos meios de comunicação: correios, telégrafo,\ntelefone, rádio, televisão e internet."
     },
     {
       "id": "ativ-174082",
@@ -175,7 +175,7 @@
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-adbd6932eb62a174",
+      "id": "com-0f954b31ca547692",
       "tipo": "comunicado",
       "titulo": "Solicitação de Documentação - Secretaria",
       "dataISO": "2026-10-01"
