@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-03T01:36:15.969Z",
+  "atualizadoEm": "2026-10-03T15:01:19.831Z",
   "atividades": [
     {
       "id": "ativ-174877",
@@ -53,23 +53,6 @@
       "conteudo": "Realizar página 120 e caderno: https://docs.google.com/document/d/1wq8jvTUjSrOlayrAEHXja4abwIw4S_V1Y-6jGnws0-Y/edit?tab=t.0"
     },
     {
-      "id": "ativ-174436",
-      "codigo": "174436",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Geografia",
-      "disciplina": "Geografia",
-      "dataISO": "2026-10-02",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Copiar com capricho: https://docs.google.com/document/d/1MZJzuMVogbJuDJ17KJgPt0rU1ck-TuuuMtOF5eCR0R4/edit?usp=sharing"
-    },
-    {
       "id": "ativ-174785",
       "codigo": "174785",
       "tipo": "atividade",
@@ -85,6 +68,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Realizar atividade no caderno."
+    },
+    {
+      "id": "ativ-174436",
+      "codigo": "174436",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Geografia",
+      "disciplina": "Geografia",
+      "dataISO": "2026-10-02",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Copiar com capricho: https://docs.google.com/document/d/1MZJzuMVogbJuDJ17KJgPt0rU1ck-TuuuMtOF5eCR0R4/edit?usp=sharing"
     },
     {
       "id": "ativ-174718",
@@ -155,11 +155,11 @@
       "conteudo": "https://docs.google.com/document/d/14QLSHwIyIO1yJpM9uY8wqGORxq6ZbFI6DnXdoo1KLfA/edit?tab=t.0"
     },
     {
-      "id": "ativ-174163",
-      "codigo": "174163",
+      "id": "ativ-174554",
+      "codigo": "174554",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
       "dataISO": "2026-09-29",
       "lembretesMinutosAntes": [
         1440
@@ -167,21 +167,21 @@
       "realizada": false,
       "situacao": "Padrão",
       "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
+      "tipoEntrega": "Livro",
       "trabalho": "Não",
-      "conteudo": "Um desafio para vocês! Façam uma pesquisa e organizem uma linha do\ntempo contando a história dos meios de comunicação: correios, telégrafo,\ntelefone, rádio, televisão e internet."
+      "conteudo": "Realizar página 246 + Matific"
     }
   ],
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-5a6b9cd97b037222",
+      "id": "com-1d2dd462f1aa44ba",
       "tipo": "comunicado",
       "titulo": "Encerramento e Premiação OMEP 2026 2°ano EF ao 5°ano EF",
       "dataISO": "2026-10-02"
     },
     {
-      "id": "com-0f954b31ca547692",
+      "id": "com-af2872c64f1b2343",
       "tipo": "comunicado",
       "titulo": "Solicitação de Documentação - Secretaria",
       "dataISO": "2026-10-01"
