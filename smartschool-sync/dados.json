@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-03T15:01:19.831Z",
+  "atualizadoEm": "2026-10-04T02:17:28.259Z",
   "atividades": [
     {
       "id": "ativ-174877",
@@ -53,23 +53,6 @@
       "conteudo": "Realizar página 120 e caderno: https://docs.google.com/document/d/1wq8jvTUjSrOlayrAEHXja4abwIw4S_V1Y-6jGnws0-Y/edit?tab=t.0"
     },
     {
-      "id": "ativ-174785",
-      "codigo": "174785",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-02",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Realizar atividade no caderno."
-    },
-    {
       "id": "ativ-174436",
       "codigo": "174436",
       "tipo": "atividade",
@@ -85,6 +68,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Copiar com capricho: https://docs.google.com/document/d/1MZJzuMVogbJuDJ17KJgPt0rU1ck-TuuuMtOF5eCR0R4/edit?usp=sharing"
+    },
+    {
+      "id": "ativ-174785",
+      "codigo": "174785",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-10-02",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Realizar atividade no caderno."
     },
     {
       "id": "ativ-174718",
@@ -155,11 +155,11 @@
       "conteudo": "https://docs.google.com/document/d/14QLSHwIyIO1yJpM9uY8wqGORxq6ZbFI6DnXdoo1KLfA/edit?tab=t.0"
     },
     {
-      "id": "ativ-174554",
-      "codigo": "174554",
+      "id": "ativ-174163",
+      "codigo": "174163",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
       "dataISO": "2026-09-29",
       "lembretesMinutosAntes": [
         1440
@@ -167,9 +167,9 @@
       "realizada": false,
       "situacao": "Padrão",
       "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
+      "tipoEntrega": "Caderno",
       "trabalho": "Não",
-      "conteudo": "Realizar página 246 + Matific"
+      "conteudo": "Um desafio para vocês! Façam uma pesquisa e organizem uma linha do\ntempo contando a história dos meios de comunicação: correios, telégrafo,\ntelefone, rádio, televisão e internet."
     }
   ],
   "avaliacoes": [],
