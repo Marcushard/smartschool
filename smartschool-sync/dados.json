@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-10-05T01:27:05.383Z",
+  "atualizadoEm": "2026-10-05T19:28:23.733Z",
   "atividades": [
+    {
+      "id": "ativ-174974",
+      "codigo": "174974",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: EDTE",
+      "disciplina": "EDTE",
+      "dataISO": "2026-10-23",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": true,
+      "situacao": "Padrão",
+      "professor": "Victoria Petriconi",
+      "tipoEntrega": "Digital",
+      "trabalho": "Sim",
+      "conteudo": "Boa tarde, meus queridos e minhas queridas!\n\nLembrem-se de concluir o Quiz...\n\nA data final de entrega será 23/10.\n\nQualquer dúvida, estou à disposição!"
+    },
     {
       "id": "ativ-174877",
       "codigo": "174877",
@@ -153,23 +170,6 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "https://docs.google.com/document/d/14QLSHwIyIO1yJpM9uY8wqGORxq6ZbFI6DnXdoo1KLfA/edit?tab=t.0"
-    },
-    {
-      "id": "ativ-174163",
-      "codigo": "174163",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
-      "dataISO": "2026-09-29",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Um desafio para vocês! Façam uma pesquisa e organizem uma linha do\ntempo contando a história dos meios de comunicação: correios, telégrafo,\ntelefone, rádio, televisão e internet."
     }
   ],
   "avaliacoes": [],
