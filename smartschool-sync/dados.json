@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-06T02:37:30.614Z",
+  "atualizadoEm": "2026-10-06T17:01:26.805Z",
   "atividades": [
     {
       "id": "ativ-174974",
@@ -70,23 +70,6 @@
       "conteudo": "Realizar página 120 e caderno: https://docs.google.com/document/d/1wq8jvTUjSrOlayrAEHXja4abwIw4S_V1Y-6jGnws0-Y/edit?tab=t.0"
     },
     {
-      "id": "ativ-174785",
-      "codigo": "174785",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-02",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Realizar atividade no caderno."
-    },
-    {
       "id": "ativ-174436",
       "codigo": "174436",
       "tipo": "atividade",
@@ -102,6 +85,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Copiar com capricho: https://docs.google.com/document/d/1MZJzuMVogbJuDJ17KJgPt0rU1ck-TuuuMtOF5eCR0R4/edit?usp=sharing"
+    },
+    {
+      "id": "ativ-174785",
+      "codigo": "174785",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-10-02",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Realizar atividade no caderno."
     },
     {
       "id": "ativ-174718",
@@ -175,6 +175,18 @@
   "avaliacoes": [],
   "comunicados": [
     {
+      "id": "com-d2a466072aa57ac4",
+      "tipo": "comunicado",
+      "titulo": "Comemoração dia das crianças - Mágico 2026",
+      "dataISO": "2026-10-06"
+    },
+    {
+      "id": "com-cd096d2c78a79b5b",
+      "tipo": "comunicado",
+      "titulo": "Homenagem dia dos Professores - 2026",
+      "dataISO": "2026-10-06"
+    },
+    {
       "id": "com-763c3891e3e773bb",
       "tipo": "comunicado",
       "titulo": "Encerramento e Premiação OMEP 2026 2°ano EF ao 5°ano EF",
@@ -221,18 +233,6 @@
       "tipo": "comunicado",
       "titulo": "PORTFÓLIO DE AVALIAÇÕES - 2º ao 5º ano EF - 2º trimestre",
       "dataISO": "2026-09-11"
-    },
-    {
-      "id": "com-b510c72d9b31c4d3",
-      "tipo": "comunicado",
-      "titulo": "Excursão 4º ano - Vila dos Smurfs Park - 2026",
-      "dataISO": "2026-09-11"
-    },
-    {
-      "id": "com-45b192d1f5623e14",
-      "tipo": "comunicado",
-      "titulo": "Futsal chuteiras",
-      "dataISO": "2026-09-09"
     }
   ]
 }
