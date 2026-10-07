@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T01:55:47.683Z",
+  "atualizadoEm": "2026-10-07T17:38:06.255Z",
   "atividades": [
     {
       "id": "ativ-174974",
@@ -51,6 +51,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Realizar atividade no caderno."
+    },
+    {
+      "id": "ativ-175101",
+      "codigo": "175101",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-10-08",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar atividade no caderno+ Página 262 + Matific."
     },
     {
       "id": "ativ-175071",
@@ -153,35 +170,18 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar pgs 250 e 251. Matific."
-    },
-    {
-      "id": "ativ-174715",
-      "codigo": "174715",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-01",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "https://docs.google.com/document/d/1-YDtzrY1ZF0fqrmd-qAZ-GWDFpKziWlAo3Y2dv88sjw/edit?usp=sharing"
     }
   ],
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-d2a466072aa57ac4",
+      "id": "com-ac120976a8cd1dcf",
       "tipo": "comunicado",
       "titulo": "Comemoração dia das crianças - Mágico 2026",
       "dataISO": "2026-10-06"
     },
     {
-      "id": "com-cd096d2c78a79b5b",
+      "id": "com-ccb427e35b41bb65",
       "tipo": "comunicado",
       "titulo": "Homenagem dia dos Professores - 2026",
       "dataISO": "2026-10-06"
@@ -211,6 +211,12 @@
       "dataISO": "2026-09-29"
     },
     {
+      "id": "com-435a4f3b7849294f",
+      "tipo": "comunicado",
+      "titulo": "CORAL E CANTO - ENSAIOS Gerais - 3ºs e 4ºs anos Reagendamento",
+      "dataISO": "2026-09-28"
+    },
+    {
       "id": "com-ef5bd62c020fbc9b",
       "tipo": "comunicado",
       "titulo": "Alerta H1N1 - 4º ano B - 2026",
@@ -226,12 +232,6 @@
       "id": "com-115ae557c2d6c1d2",
       "tipo": "comunicado",
       "titulo": "OLIMPÍADAS DE MATEMÁTICA DA ESCOLA PINHEIRO - 2026(OMEP)",
-      "dataISO": "2026-09-11"
-    },
-    {
-      "id": "com-f558fe5272717c88",
-      "tipo": "comunicado",
-      "titulo": "PORTFÓLIO DE AVALIAÇÕES - 2º ao 5º ano EF - 2º trimestre",
       "dataISO": "2026-09-11"
     }
   ]
