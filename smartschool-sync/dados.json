@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-06T17:01:26.805Z",
+  "atualizadoEm": "2026-10-07T01:55:47.683Z",
   "atividades": [
     {
       "id": "ativ-174974",
@@ -19,6 +19,23 @@
       "conteudo": "Boa tarde, meus queridos e minhas queridas!\n\nLembrem-se de concluir o Quiz...\n\nA data final de entrega será 23/10.\n\nQualquer dúvida, estou à disposição!"
     },
     {
+      "id": "ativ-175067",
+      "codigo": "175067",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
+      "dataISO": "2026-10-20",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pg 137."
+    },
+    {
       "id": "ativ-174877",
       "codigo": "174877",
       "tipo": "atividade",
@@ -34,6 +51,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Realizar atividade no caderno."
+    },
+    {
+      "id": "ativ-175071",
+      "codigo": "175071",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-10-07",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pgs 258 e 259"
     },
     {
       "id": "ativ-174880",
@@ -70,23 +104,6 @@
       "conteudo": "Realizar página 120 e caderno: https://docs.google.com/document/d/1wq8jvTUjSrOlayrAEHXja4abwIw4S_V1Y-6jGnws0-Y/edit?tab=t.0"
     },
     {
-      "id": "ativ-174436",
-      "codigo": "174436",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Geografia",
-      "disciplina": "Geografia",
-      "dataISO": "2026-10-02",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Copiar com capricho: https://docs.google.com/document/d/1MZJzuMVogbJuDJ17KJgPt0rU1ck-TuuuMtOF5eCR0R4/edit?usp=sharing"
-    },
-    {
       "id": "ativ-174785",
       "codigo": "174785",
       "tipo": "atividade",
@@ -102,6 +119,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Realizar atividade no caderno."
+    },
+    {
+      "id": "ativ-174436",
+      "codigo": "174436",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Geografia",
+      "disciplina": "Geografia",
+      "dataISO": "2026-10-02",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Copiar com capricho: https://docs.google.com/document/d/1MZJzuMVogbJuDJ17KJgPt0rU1ck-TuuuMtOF5eCR0R4/edit?usp=sharing"
     },
     {
       "id": "ativ-174718",
@@ -136,40 +170,6 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "https://docs.google.com/document/d/1-YDtzrY1ZF0fqrmd-qAZ-GWDFpKziWlAo3Y2dv88sjw/edit?usp=sharing"
-    },
-    {
-      "id": "ativ-174439",
-      "codigo": "174439",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-09-30",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Copiar o texto no caderno: https://docs.google.com/document/d/1hH6cQoZZ3I47FqcuJj-u9-EkPZnNckttWeROE6yRAj0/edit?usp=sharing\n\nRealizar o Desafio do Leitor de Setembro"
-    },
-    {
-      "id": "ativ-174641",
-      "codigo": "174641",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-09-30",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "https://docs.google.com/document/d/14QLSHwIyIO1yJpM9uY8wqGORxq6ZbFI6DnXdoo1KLfA/edit?tab=t.0"
     }
   ],
   "avaliacoes": [],
