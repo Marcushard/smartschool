@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T02:23:35.920Z",
+  "atualizadoEm": "2026-10-08T17:41:10.644Z",
   "atividades": [
     {
       "id": "ativ-174974",
@@ -34,6 +34,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar pg 137."
+    },
+    {
+      "id": "ativ-175182",
+      "codigo": "175182",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-10-09",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Para casa\n\nCrie uma campanha de conscientização para incentivar as pessoas a refletirem sobre o consumismo no Dia das Crianças. A campanha deve mostrar que ser criança, brincar e estar com quem gostamos é mais importante do que ganhar muitos presentes ou comprar coisas sem necessidade.\n\nSua campanha deve ter:\n\nTítulo\nMensagem principal\nUma orientação ou convite\nIlustração"
     },
     {
       "id": "ativ-174877",
@@ -153,35 +170,30 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Realizar atividade no caderno."
-    },
-    {
-      "id": "ativ-174718",
-      "codigo": "174718",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-10-01",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar pgs 250 e 251. Matific."
     }
   ],
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-ac120976a8cd1dcf",
+      "id": "com-7aa02fcb72b92d59",
+      "tipo": "comunicado",
+      "titulo": "rec. feriado dia das crianças e do professor",
+      "dataISO": "2026-10-08"
+    },
+    {
+      "id": "com-272e70943278346c",
+      "tipo": "comunicado",
+      "titulo": "Lembrança Dia das Crianças do 2º ao 5º ano - 2026",
+      "dataISO": "2026-10-08"
+    },
+    {
+      "id": "com-61a064e1125f5fc1",
       "tipo": "comunicado",
       "titulo": "Comemoração dia das crianças - Mágico 2026",
       "dataISO": "2026-10-06"
     },
     {
-      "id": "com-ccb427e35b41bb65",
+      "id": "com-b6a349d9b3f01bb3",
       "tipo": "comunicado",
       "titulo": "Homenagem dia dos Professores - 2026",
       "dataISO": "2026-10-06"
@@ -221,18 +233,6 @@
       "tipo": "comunicado",
       "titulo": "Alerta H1N1 - 4º ano B - 2026",
       "dataISO": "2026-09-24"
-    },
-    {
-      "id": "com-ee7afc4b1482c344",
-      "tipo": "comunicado",
-      "titulo": "OMEP e MATIFC - 2°ano ao 5°ano EF 2026",
-      "dataISO": "2026-09-15"
-    },
-    {
-      "id": "com-115ae557c2d6c1d2",
-      "tipo": "comunicado",
-      "titulo": "OLIMPÍADAS DE MATEMÁTICA DA ESCOLA PINHEIRO - 2026(OMEP)",
-      "dataISO": "2026-09-11"
     }
   ]
 }
