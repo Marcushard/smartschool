@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T02:41:12.890Z",
+  "atualizadoEm": "2026-10-09T17:16:48.353Z",
   "atividades": [
     {
       "id": "ativ-174974",
@@ -87,23 +87,6 @@
       "conteudo": "Realizar atividade no caderno+ Página 262 + Matific."
     },
     {
-      "id": "ativ-175071",
-      "codigo": "175071",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-10-07",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar pgs 258 e 259"
-    },
-    {
       "id": "ativ-174880",
       "codigo": "174880",
       "tipo": "atividade",
@@ -119,6 +102,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Realizar atividade no caderno."
+    },
+    {
+      "id": "ativ-175071",
+      "codigo": "175071",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-10-07",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pgs 258 e 259"
     },
     {
       "id": "ativ-174551",
@@ -138,23 +138,6 @@
       "conteudo": "Realizar página 120 e caderno: https://docs.google.com/document/d/1wq8jvTUjSrOlayrAEHXja4abwIw4S_V1Y-6jGnws0-Y/edit?tab=t.0"
     },
     {
-      "id": "ativ-174436",
-      "codigo": "174436",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Geografia",
-      "disciplina": "Geografia",
-      "dataISO": "2026-10-02",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Copiar com capricho: https://docs.google.com/document/d/1MZJzuMVogbJuDJ17KJgPt0rU1ck-TuuuMtOF5eCR0R4/edit?usp=sharing"
-    },
-    {
       "id": "ativ-174785",
       "codigo": "174785",
       "tipo": "atividade",
@@ -170,18 +153,35 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Realizar atividade no caderno."
+    },
+    {
+      "id": "ativ-174436",
+      "codigo": "174436",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Geografia",
+      "disciplina": "Geografia",
+      "dataISO": "2026-10-02",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Copiar com capricho: https://docs.google.com/document/d/1MZJzuMVogbJuDJ17KJgPt0rU1ck-TuuuMtOF5eCR0R4/edit?usp=sharing"
     }
   ],
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-7aa02fcb72b92d59",
+      "id": "com-69d0341528bd541f",
       "tipo": "comunicado",
       "titulo": "rec. feriado dia das crianças e do professor",
       "dataISO": "2026-10-08"
     },
     {
-      "id": "com-272e70943278346c",
+      "id": "com-e0e3af2acf988bb0",
       "tipo": "comunicado",
       "titulo": "Lembrança Dia das Crianças do 2º ao 5º ano - 2026",
       "dataISO": "2026-10-08"
