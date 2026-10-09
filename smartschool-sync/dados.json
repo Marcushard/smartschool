@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T17:41:10.644Z",
+  "atualizadoEm": "2026-10-09T02:41:12.890Z",
   "atividades": [
     {
       "id": "ativ-174974",
@@ -87,23 +87,6 @@
       "conteudo": "Realizar atividade no caderno+ Página 262 + Matific."
     },
     {
-      "id": "ativ-174880",
-      "codigo": "174880",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-07",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Realizar atividade no caderno."
-    },
-    {
       "id": "ativ-175071",
       "codigo": "175071",
       "tipo": "atividade",
@@ -119,6 +102,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar pgs 258 e 259"
+    },
+    {
+      "id": "ativ-174880",
+      "codigo": "174880",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-10-07",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Realizar atividade no caderno."
     },
     {
       "id": "ativ-174551",
