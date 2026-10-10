@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T17:16:48.353Z",
+  "atualizadoEm": "2026-10-10T02:01:05.679Z",
   "atividades": [
     {
       "id": "ativ-174974",
@@ -34,6 +34,40 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar pg 137."
+    },
+    {
+      "id": "ativ-175321",
+      "codigo": "175321",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Geografia",
+      "disciplina": "Geografia",
+      "dataISO": "2026-10-16",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Atividade no caderno sobre o rio."
+    },
+    {
+      "id": "ativ-175324",
+      "codigo": "175324",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-10-14",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Retomada de  Gramática"
     },
     {
       "id": "ativ-175182",
@@ -136,40 +170,6 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Realizar página 120 e caderno: https://docs.google.com/document/d/1wq8jvTUjSrOlayrAEHXja4abwIw4S_V1Y-6jGnws0-Y/edit?tab=t.0"
-    },
-    {
-      "id": "ativ-174785",
-      "codigo": "174785",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-02",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Realizar atividade no caderno."
-    },
-    {
-      "id": "ativ-174436",
-      "codigo": "174436",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Geografia",
-      "disciplina": "Geografia",
-      "dataISO": "2026-10-02",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Copiar com capricho: https://docs.google.com/document/d/1MZJzuMVogbJuDJ17KJgPt0rU1ck-TuuuMtOF5eCR0R4/edit?usp=sharing"
     }
   ],
   "avaliacoes": [],
