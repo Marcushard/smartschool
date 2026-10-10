@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T02:01:05.679Z",
+  "atualizadoEm": "2026-10-10T16:03:48.238Z",
   "atividades": [
     {
       "id": "ativ-174974",
@@ -121,23 +121,6 @@
       "conteudo": "Realizar atividade no caderno+ Página 262 + Matific."
     },
     {
-      "id": "ativ-174880",
-      "codigo": "174880",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-07",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Realizar atividade no caderno."
-    },
-    {
       "id": "ativ-175071",
       "codigo": "175071",
       "tipo": "atividade",
@@ -153,6 +136,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar pgs 258 e 259"
+    },
+    {
+      "id": "ativ-174880",
+      "codigo": "174880",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-10-07",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Realizar atividade no caderno."
     },
     {
       "id": "ativ-174551",
@@ -175,13 +175,13 @@
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-69d0341528bd541f",
+      "id": "com-8651c602abc6f267",
       "tipo": "comunicado",
       "titulo": "rec. feriado dia das crianças e do professor",
       "dataISO": "2026-10-08"
     },
     {
-      "id": "com-e0e3af2acf988bb0",
+      "id": "com-8fe8a9ef8daee178",
       "tipo": "comunicado",
       "titulo": "Lembrança Dia das Crianças do 2º ao 5º ano - 2026",
       "dataISO": "2026-10-08"
