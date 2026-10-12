@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-12T01:56:43.298Z",
+  "atualizadoEm": "2026-10-12T20:04:52.530Z",
   "atividades": [
     {
       "id": "ativ-174974",
@@ -70,23 +70,6 @@
       "conteudo": "Retomada de  Gramática"
     },
     {
-      "id": "ativ-175182",
-      "codigo": "175182",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-09",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Para casa\n\nCrie uma campanha de conscientização para incentivar as pessoas a refletirem sobre o consumismo no Dia das Crianças. A campanha deve mostrar que ser criança, brincar e estar com quem gostamos é mais importante do que ganhar muitos presentes ou comprar coisas sem necessidade.\n\nSua campanha deve ter:\n\nTítulo\nMensagem principal\nUma orientação ou convite\nIlustração"
-    },
-    {
       "id": "ativ-174877",
       "codigo": "174877",
       "tipo": "atividade",
@@ -102,6 +85,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Realizar atividade no caderno."
+    },
+    {
+      "id": "ativ-175182",
+      "codigo": "175182",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-10-09",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Para casa\n\nCrie uma campanha de conscientização para incentivar as pessoas a refletirem sobre o consumismo no Dia das Crianças. A campanha deve mostrar que ser criança, brincar e estar com quem gostamos é mais importante do que ganhar muitos presentes ou comprar coisas sem necessidade.\n\nSua campanha deve ter:\n\nTítulo\nMensagem principal\nUma orientação ou convite\nIlustração"
     },
     {
       "id": "ativ-175101",
