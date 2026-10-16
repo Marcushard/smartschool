@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-15T15:26:16.740Z",
+  "atualizadoEm": "2026-10-16T00:55:48.127Z",
   "atividades": [
     {
       "id": "ativ-174974",
@@ -53,23 +53,6 @@
       "conteudo": "Atividade no caderno sobre o rio."
     },
     {
-      "id": "ativ-175379",
-      "codigo": "175379",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-10-15",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Segue atividade no caderno + Matific."
-    },
-    {
       "id": "ativ-175376",
       "codigo": "175376",
       "tipo": "atividade",
@@ -85,6 +68,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Segue caderno para estudar para a avaliação de Verificação de Leitura."
+    },
+    {
+      "id": "ativ-175379",
+      "codigo": "175379",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-10-15",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Segue atividade no caderno + Matific."
     },
     {
       "id": "ativ-175324",
@@ -104,23 +104,6 @@
       "conteudo": "Retomada de  Gramática"
     },
     {
-      "id": "ativ-174877",
-      "codigo": "174877",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Geografia",
-      "disciplina": "Geografia",
-      "dataISO": "2026-10-09",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Realizar atividade no caderno."
-    },
-    {
       "id": "ativ-175182",
       "codigo": "175182",
       "tipo": "atividade",
@@ -136,6 +119,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Para casa\n\nCrie uma campanha de conscientização para incentivar as pessoas a refletirem sobre o consumismo no Dia das Crianças. A campanha deve mostrar que ser criança, brincar e estar com quem gostamos é mais importante do que ganhar muitos presentes ou comprar coisas sem necessidade.\n\nSua campanha deve ter:\n\nTítulo\nMensagem principal\nUma orientação ou convite\nIlustração"
+    },
+    {
+      "id": "ativ-174877",
+      "codigo": "174877",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Geografia",
+      "disciplina": "Geografia",
+      "dataISO": "2026-10-09",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Realizar atividade no caderno."
     },
     {
       "id": "ativ-175101",
@@ -174,6 +174,12 @@
   ],
   "avaliacoes": [],
   "comunicados": [
+    {
+      "id": "com-8135c5b8a0c73703",
+      "tipo": "comunicado",
+      "titulo": "Afastamento professora Daniela 4º ano 2026",
+      "dataISO": "2026-10-15"
+    },
     {
       "id": "com-5789cb3b631d1ae5",
       "tipo": "comunicado",
@@ -227,12 +233,6 @@
       "tipo": "comunicado",
       "titulo": "Semana das Crianças - 4º ano - 2026",
       "dataISO": "2026-09-29"
-    },
-    {
-      "id": "com-435a4f3b7849294f",
-      "tipo": "comunicado",
-      "titulo": "CORAL E CANTO - ENSAIOS Gerais - 3ºs e 4ºs anos Reagendamento",
-      "dataISO": "2026-09-28"
     }
   ]
 }
