@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T00:55:48.127Z",
+  "atualizadoEm": "2026-10-16T15:06:00.179Z",
   "atividades": [
     {
       "id": "ativ-174974",
@@ -53,23 +53,6 @@
       "conteudo": "Atividade no caderno sobre o rio."
     },
     {
-      "id": "ativ-175376",
-      "codigo": "175376",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-15",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Segue caderno para estudar para a avaliação de Verificação de Leitura."
-    },
-    {
       "id": "ativ-175379",
       "codigo": "175379",
       "tipo": "atividade",
@@ -85,6 +68,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Segue atividade no caderno + Matific."
+    },
+    {
+      "id": "ativ-175376",
+      "codigo": "175376",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-10-15",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Segue caderno para estudar para a avaliação de Verificação de Leitura."
     },
     {
       "id": "ativ-175324",
@@ -175,13 +175,19 @@
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-8135c5b8a0c73703",
+      "id": "com-1667321e3762ab92",
       "tipo": "comunicado",
       "titulo": "Afastamento professora Daniela 4º ano 2026",
       "dataISO": "2026-10-15"
     },
     {
-      "id": "com-5789cb3b631d1ae5",
+      "id": "com-b9b0584eab9c07c0",
+      "tipo": "comunicado",
+      "titulo": "Calendário de avaliações e roteiro de estudos do 3º trimestre - 4º ano-2026",
+      "dataISO": "2026-10-15"
+    },
+    {
+      "id": "com-8688fc6d0c6af93b",
       "tipo": "comunicado",
       "titulo": "JUDÔ - TROCA DE FAIXAS - 2ª CHAMADA - 2026",
       "dataISO": "2026-10-14"
@@ -226,12 +232,6 @@
       "id": "com-32c089ee2fc49c3a",
       "tipo": "comunicado",
       "titulo": "Rematrículas - 2027",
-      "dataISO": "2026-09-29"
-    },
-    {
-      "id": "com-5922f0c559ae5138",
-      "tipo": "comunicado",
-      "titulo": "Semana das Crianças - 4º ano - 2026",
       "dataISO": "2026-09-29"
     }
   ]
