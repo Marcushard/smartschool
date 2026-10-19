@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-10-19T00:39:13.551Z",
+  "atualizadoEm": "2026-10-19T17:17:50.425Z",
   "atividades": [
+    {
+      "id": "ativ-175625",
+      "codigo": "175625",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Ciencias",
+      "disciplina": "Ciencias",
+      "dataISO": "2026-10-26",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Ler pg 126 e responder pg 127 (no caderno)"
+    },
     {
       "id": "ativ-174974",
       "codigo": "174974",
@@ -34,6 +51,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar pg 137."
+    },
+    {
+      "id": "ativ-175621",
+      "codigo": "175621",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-10-20",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar página 266 + Matific"
     },
     {
       "id": "ativ-175321",
@@ -104,23 +138,6 @@
       "conteudo": "Retomada de  Gramática"
     },
     {
-      "id": "ativ-175182",
-      "codigo": "175182",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-09",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Para casa\n\nCrie uma campanha de conscientização para incentivar as pessoas a refletirem sobre o consumismo no Dia das Crianças. A campanha deve mostrar que ser criança, brincar e estar com quem gostamos é mais importante do que ganhar muitos presentes ou comprar coisas sem necessidade.\n\nSua campanha deve ter:\n\nTítulo\nMensagem principal\nUma orientação ou convite\nIlustração"
-    },
-    {
       "id": "ativ-174877",
       "codigo": "174877",
       "tipo": "atividade",
@@ -138,38 +155,21 @@
       "conteudo": "Realizar atividade no caderno."
     },
     {
-      "id": "ativ-175101",
-      "codigo": "175101",
+      "id": "ativ-175182",
+      "codigo": "175182",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-10-08",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-10-09",
       "lembretesMinutosAntes": [
         1440
       ],
       "realizada": false,
       "situacao": "Padrão",
       "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
+      "tipoEntrega": "Caderno",
       "trabalho": "Não",
-      "conteudo": "Realizar atividade no caderno+ Página 262 + Matific."
-    },
-    {
-      "id": "ativ-175071",
-      "codigo": "175071",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-10-07",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar pgs 258 e 259"
+      "conteudo": "Para casa\n\nCrie uma campanha de conscientização para incentivar as pessoas a refletirem sobre o consumismo no Dia das Crianças. A campanha deve mostrar que ser criança, brincar e estar com quem gostamos é mais importante do que ganhar muitos presentes ou comprar coisas sem necessidade.\n\nSua campanha deve ter:\n\nTítulo\nMensagem principal\nUma orientação ou convite\nIlustração"
     }
   ],
   "avaliacoes": [],
