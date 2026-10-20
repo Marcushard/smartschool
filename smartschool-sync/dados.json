@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-19T17:17:50.425Z",
+  "atualizadoEm": "2026-10-20T01:24:12.820Z",
   "atividades": [
     {
       "id": "ativ-175625",
@@ -36,23 +36,6 @@
       "conteudo": "Boa tarde, meus queridos e minhas queridas!\n\nLembrem-se de concluir o Quiz...\n\nA data final de entrega será 23/10.\n\nQualquer dúvida, estou à disposição!"
     },
     {
-      "id": "ativ-175067",
-      "codigo": "175067",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
-      "dataISO": "2026-10-20",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar pg 137."
-    },
-    {
       "id": "ativ-175621",
       "codigo": "175621",
       "tipo": "atividade",
@@ -68,6 +51,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar página 266 + Matific"
+    },
+    {
+      "id": "ativ-175067",
+      "codigo": "175067",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
+      "dataISO": "2026-10-20",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pg 137."
     },
     {
       "id": "ativ-175321",
@@ -87,23 +87,6 @@
       "conteudo": "Atividade no caderno sobre o rio."
     },
     {
-      "id": "ativ-175379",
-      "codigo": "175379",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-10-15",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Segue atividade no caderno + Matific."
-    },
-    {
       "id": "ativ-175376",
       "codigo": "175376",
       "tipo": "atividade",
@@ -119,6 +102,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Segue caderno para estudar para a avaliação de Verificação de Leitura."
+    },
+    {
+      "id": "ativ-175379",
+      "codigo": "175379",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-10-15",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Segue atividade no caderno + Matific."
     },
     {
       "id": "ativ-175324",
