@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-21T15:47:30.672Z",
+  "atualizadoEm": "2026-10-22T01:07:40.905Z",
   "atividades": [
     {
       "id": "ativ-175625",
@@ -175,6 +175,12 @@
   "avaliacoes": [],
   "comunicados": [
     {
+      "id": "com-0fb8f650609b0a91",
+      "tipo": "comunicado",
+      "titulo": "Lições de casa e materiais escolares - 4º e 5º - 2026",
+      "dataISO": "2026-10-21"
+    },
+    {
       "id": "com-8159416269556efe",
       "tipo": "comunicado",
       "titulo": "Lembrete 1 - Rematrículas 2027",
@@ -227,12 +233,6 @@
       "tipo": "comunicado",
       "titulo": "Homenagem dia dos Professores - 2026",
       "dataISO": "2026-10-06"
-    },
-    {
-      "id": "com-763c3891e3e773bb",
-      "tipo": "comunicado",
-      "titulo": "Encerramento e Premiação OMEP 2026 2°ano EF ao 5°ano EF",
-      "dataISO": "2026-10-02"
     }
   ]
 }
