@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-26T00:54:12.289Z",
+  "atualizadoEm": "2026-10-26T17:05:32.935Z",
   "atividades": [
     {
       "id": "ativ-175827",
@@ -155,11 +155,11 @@
       "conteudo": "Atividade no caderno sobre o rio."
     },
     {
-      "id": "ativ-175376",
-      "codigo": "175376",
+      "id": "ativ-175379",
+      "codigo": "175379",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
       "dataISO": "2026-10-15",
       "lembretesMinutosAntes": [
         1440
@@ -169,7 +169,7 @@
       "professor": "Daniela Messora Barranco",
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
-      "conteudo": "Segue caderno para estudar para a avaliação de Verificação de Leitura."
+      "conteudo": "Segue atividade no caderno + Matific."
     }
   ],
   "avaliacoes": [],
