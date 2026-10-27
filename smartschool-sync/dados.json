@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-27T01:46:00.216Z",
+  "atualizadoEm": "2026-10-27T16:17:18.644Z",
   "atividades": [
     {
       "id": "ativ-175827",
@@ -19,23 +19,6 @@
       "conteudo": "Segue material para estudar para a Avaliação I"
     },
     {
-      "id": "ativ-175702",
-      "codigo": "175702",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
-      "dataISO": "2026-10-26",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Realizar lição no caderno."
-    },
-    {
       "id": "ativ-175625",
       "codigo": "175625",
       "tipo": "atividade",
@@ -51,6 +34,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Ler pg 126 e responder pg 127 (no caderno)"
+    },
+    {
+      "id": "ativ-175702",
+      "codigo": "175702",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
+      "dataISO": "2026-10-26",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Realizar lição no caderno."
     },
     {
       "id": "ativ-175824",
