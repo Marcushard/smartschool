@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T02:18:11.723Z",
+  "atualizadoEm": "2026-10-30T16:55:11.657Z",
   "atividades": [
     {
       "id": "ativ-176225",
@@ -17,6 +17,23 @@
       "tipoEntrega": "Folha Avulsa",
       "trabalho": "Não",
       "conteudo": "Realizar etapas 3 e 4 da apostila do Relato Pessoal."
+    },
+    {
+      "id": "ativ-176252",
+      "codigo": "176252",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Geografia",
+      "disciplina": "Geografia",
+      "dataISO": "2026-11-03",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Outros",
+      "trabalho": "Não",
+      "conteudo": "Aproveite para estudar para a avaliação de Geografia!"
     },
     {
       "id": "ativ-176226",
@@ -153,29 +170,18 @@
       "tipoEntrega": "Digital",
       "trabalho": "Sim",
       "conteudo": "Boa tarde, meus queridos e minhas queridas!\n\nLembrem-se de concluir o Quiz...\n\nA data final de entrega será 23/10.\n\nQualquer dúvida, estou à disposição!"
-    },
-    {
-      "id": "ativ-175699",
-      "codigo": "175699",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-10-21",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar pgs 268 e 269. ( exercício 2 e 3 no caderno). Tem Matific"
     }
   ],
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-fd6da507cf7e3238",
+      "id": "com-680aa68d6fe42261",
+      "tipo": "comunicado",
+      "titulo": "Feriado Finados",
+      "dataISO": "2026-10-30"
+    },
+    {
+      "id": "com-5b3ed83098c44fde",
       "tipo": "comunicado",
       "titulo": "Reiteração da solicitação de atualização dos documentos dos alunos",
       "dataISO": "2026-10-29"
@@ -227,12 +233,6 @@
       "tipo": "comunicado",
       "titulo": "Lembrança Dia das Crianças do 2º ao 5º ano - 2026",
       "dataISO": "2026-10-08"
-    },
-    {
-      "id": "com-61a064e1125f5fc1",
-      "tipo": "comunicado",
-      "titulo": "Comemoração dia das crianças - Mágico 2026",
-      "dataISO": "2026-10-06"
     }
   ]
 }
