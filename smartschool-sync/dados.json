@@ -1,6 +1,40 @@
 {
-  "atualizadoEm": "2026-10-29T17:13:51.099Z",
+  "atualizadoEm": "2026-10-30T02:18:11.723Z",
   "atividades": [
+    {
+      "id": "ativ-176225",
+      "codigo": "176225",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-11-04",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Folha Avulsa",
+      "trabalho": "Não",
+      "conteudo": "Realizar etapas 3 e 4 da apostila do Relato Pessoal."
+    },
+    {
+      "id": "ativ-176226",
+      "codigo": "176226",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-11-03",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pgs 298, 299 e 300."
+    },
     {
       "id": "ativ-175827",
       "codigo": "175827",
@@ -136,44 +170,16 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar pgs 268 e 269. ( exercício 2 e 3 no caderno). Tem Matific"
-    },
-    {
-      "id": "ativ-175067",
-      "codigo": "175067",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
-      "dataISO": "2026-10-20",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar pg 137."
-    },
-    {
-      "id": "ativ-175621",
-      "codigo": "175621",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-10-20",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar página 266 + Matific"
     }
   ],
   "avaliacoes": [],
   "comunicados": [
+    {
+      "id": "com-fd6da507cf7e3238",
+      "tipo": "comunicado",
+      "titulo": "Reiteração da solicitação de atualização dos documentos dos alunos",
+      "dataISO": "2026-10-29"
+    },
     {
       "id": "com-3bb2eb39dcb098e5",
       "tipo": "comunicado",
@@ -226,12 +232,6 @@
       "id": "com-61a064e1125f5fc1",
       "tipo": "comunicado",
       "titulo": "Comemoração dia das crianças - Mágico 2026",
-      "dataISO": "2026-10-06"
-    },
-    {
-      "id": "com-b6a349d9b3f01bb3",
-      "tipo": "comunicado",
-      "titulo": "Homenagem dia dos Professores - 2026",
       "dataISO": "2026-10-06"
     }
   ]
