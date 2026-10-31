@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-31T01:57:17.075Z",
+  "atualizadoEm": "2026-10-31T15:56:11.464Z",
   "atividades": [
     {
       "id": "ativ-176225",
@@ -70,23 +70,6 @@
       "conteudo": "Segue material para estudar para a Avaliação I"
     },
     {
-      "id": "ativ-176113",
-      "codigo": "176113",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-29",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Ler e realizar páginas 278 até 282"
-    },
-    {
       "id": "ativ-176115",
       "codigo": "176115",
       "tipo": "atividade",
@@ -104,21 +87,21 @@
       "conteudo": "Realizar páginas 281 e 282. Tem Matific."
     },
     {
-      "id": "ativ-175625",
-      "codigo": "175625",
+      "id": "ativ-176113",
+      "codigo": "176113",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Ciencias",
-      "disciplina": "Ciencias",
-      "dataISO": "2026-10-26",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-10-29",
       "lembretesMinutosAntes": [
         1440
       ],
       "realizada": false,
       "situacao": "Padrão",
       "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
+      "tipoEntrega": "Livro",
       "trabalho": "Não",
-      "conteudo": "Ler pg 126 e responder pg 127 (no caderno)"
+      "conteudo": "Ler e realizar páginas 278 até 282"
     },
     {
       "id": "ativ-175702",
@@ -136,6 +119,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Realizar lição no caderno."
+    },
+    {
+      "id": "ativ-175625",
+      "codigo": "175625",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Ciencias",
+      "disciplina": "Ciencias",
+      "dataISO": "2026-10-26",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Ler pg 126 e responder pg 127 (no caderno)"
     },
     {
       "id": "ativ-175824",
@@ -175,19 +175,19 @@
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-680aa68d6fe42261",
+      "id": "com-f3eb7a2b281f2a5d",
       "tipo": "comunicado",
       "titulo": "Feriado Finados",
       "dataISO": "2026-10-30"
     },
     {
-      "id": "com-b6d06ec8b3a13058",
+      "id": "com-f323d1c72821a7a6",
       "tipo": "comunicado",
       "titulo": "Trabalho de Arte- Boneca Abayomi- 4º ano 2026 - 3º tri.",
       "dataISO": "2026-10-30"
     },
     {
-      "id": "com-5b3ed83098c44fde",
+      "id": "com-3514dcc61f9f7da8",
       "tipo": "comunicado",
       "titulo": "Reiteração da solicitação de atualização dos documentos dos alunos",
       "dataISO": "2026-10-29"
