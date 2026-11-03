@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-11-03T03:48:24.777Z",
+  "atualizadoEm": "2026-11-03T18:12:11.860Z",
   "atividades": [
+    {
+      "id": "ativ-176389",
+      "codigo": "176389",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-11-04",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Bom dia!\n\nRealizar as páginas 304 à 306.Tem Matific."
+    },
     {
       "id": "ativ-176225",
       "codigo": "176225",
@@ -17,23 +34,6 @@
       "tipoEntrega": "Folha Avulsa",
       "trabalho": "Não",
       "conteudo": "Realizar etapas 3 e 4 da apostila do Relato Pessoal."
-    },
-    {
-      "id": "ativ-176226",
-      "codigo": "176226",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-11-03",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar pgs 298, 299 e 300."
     },
     {
       "id": "ativ-176252",
@@ -53,6 +53,23 @@
       "conteudo": "Aproveite para estudar para a avaliação de Geografia!"
     },
     {
+      "id": "ativ-176226",
+      "codigo": "176226",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-11-03",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pgs 298, 299 e 300."
+    },
+    {
       "id": "ativ-175827",
       "codigo": "175827",
       "tipo": "atividade",
@@ -68,23 +85,6 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Segue material para estudar para a Avaliação I"
-    },
-    {
-      "id": "ativ-176113",
-      "codigo": "176113",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-29",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Ler e realizar páginas 278 até 282"
     },
     {
       "id": "ativ-176115",
@@ -104,21 +104,21 @@
       "conteudo": "Realizar páginas 281 e 282. Tem Matific."
     },
     {
-      "id": "ativ-175702",
-      "codigo": "175702",
+      "id": "ativ-176113",
+      "codigo": "176113",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
-      "dataISO": "2026-10-26",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-10-29",
       "lembretesMinutosAntes": [
         1440
       ],
       "realizada": false,
       "situacao": "Padrão",
       "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
+      "tipoEntrega": "Livro",
       "trabalho": "Não",
-      "conteudo": "Realizar lição no caderno."
+      "conteudo": "Ler e realizar páginas 278 até 282"
     },
     {
       "id": "ativ-175625",
@@ -138,6 +138,23 @@
       "conteudo": "Ler pg 126 e responder pg 127 (no caderno)"
     },
     {
+      "id": "ativ-175702",
+      "codigo": "175702",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
+      "dataISO": "2026-10-26",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Realizar lição no caderno."
+    },
+    {
       "id": "ativ-175824",
       "codigo": "175824",
       "tipo": "atividade",
@@ -153,27 +170,16 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Realizar atividade no caderno"
-    },
-    {
-      "id": "ativ-174974",
-      "codigo": "174974",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: EDTE",
-      "disciplina": "EDTE",
-      "dataISO": "2026-10-23",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": true,
-      "situacao": "Padrão",
-      "professor": "Victoria Petriconi",
-      "tipoEntrega": "Digital",
-      "trabalho": "Sim",
-      "conteudo": "Boa tarde, meus queridos e minhas queridas!\n\nLembrem-se de concluir o Quiz...\n\nA data final de entrega será 23/10.\n\nQualquer dúvida, estou à disposição!"
     }
   ],
   "avaliacoes": [],
   "comunicados": [
+    {
+      "id": "com-e1e4f9553e277668",
+      "tipo": "comunicado",
+      "titulo": "Alteração de data. Avaliação de Inglês 4ºs anos 3º trimestre - 2026",
+      "dataISO": "2026-11-03"
+    },
     {
       "id": "com-0992f7b3852ff12e",
       "tipo": "comunicado",
@@ -227,12 +233,6 @@
       "tipo": "comunicado",
       "titulo": "JUDÔ - TROCA DE FAIXAS - 2ª CHAMADA - 2026",
       "dataISO": "2026-10-14"
-    },
-    {
-      "id": "com-8651c602abc6f267",
-      "tipo": "comunicado",
-      "titulo": "rec. feriado dia das crianças e do professor",
-      "dataISO": "2026-10-08"
     }
   ]
 }
