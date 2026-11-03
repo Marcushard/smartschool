@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-02T20:36:33.133Z",
+  "atualizadoEm": "2026-11-03T03:48:24.777Z",
   "atividades": [
     {
       "id": "ativ-176225",
@@ -19,23 +19,6 @@
       "conteudo": "Realizar etapas 3 e 4 da apostila do Relato Pessoal."
     },
     {
-      "id": "ativ-176252",
-      "codigo": "176252",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Geografia",
-      "disciplina": "Geografia",
-      "dataISO": "2026-11-03",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Outros",
-      "trabalho": "Não",
-      "conteudo": "Aproveite para estudar para a avaliação de Geografia!"
-    },
-    {
       "id": "ativ-176226",
       "codigo": "176226",
       "tipo": "atividade",
@@ -51,6 +34,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar pgs 298, 299 e 300."
+    },
+    {
+      "id": "ativ-176252",
+      "codigo": "176252",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Geografia",
+      "disciplina": "Geografia",
+      "dataISO": "2026-11-03",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Outros",
+      "trabalho": "Não",
+      "conteudo": "Aproveite para estudar para a avaliação de Geografia!"
     },
     {
       "id": "ativ-175827",
