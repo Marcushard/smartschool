@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-03T18:12:11.860Z",
+  "atualizadoEm": "2026-11-04T02:50:48.712Z",
   "atividades": [
     {
       "id": "ativ-176389",
@@ -87,23 +87,6 @@
       "conteudo": "Segue material para estudar para a Avaliação I"
     },
     {
-      "id": "ativ-176115",
-      "codigo": "176115",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-10-29",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar páginas 281 e 282. Tem Matific."
-    },
-    {
       "id": "ativ-176113",
       "codigo": "176113",
       "tipo": "atividade",
@@ -121,21 +104,21 @@
       "conteudo": "Ler e realizar páginas 278 até 282"
     },
     {
-      "id": "ativ-175625",
-      "codigo": "175625",
+      "id": "ativ-176115",
+      "codigo": "176115",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Ciencias",
-      "disciplina": "Ciencias",
-      "dataISO": "2026-10-26",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-10-29",
       "lembretesMinutosAntes": [
         1440
       ],
       "realizada": false,
       "situacao": "Padrão",
       "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
+      "tipoEntrega": "Livro",
       "trabalho": "Não",
-      "conteudo": "Ler pg 126 e responder pg 127 (no caderno)"
+      "conteudo": "Realizar páginas 281 e 282. Tem Matific."
     },
     {
       "id": "ativ-175702",
@@ -153,6 +136,23 @@
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
       "conteudo": "Realizar lição no caderno."
+    },
+    {
+      "id": "ativ-175625",
+      "codigo": "175625",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Ciencias",
+      "disciplina": "Ciencias",
+      "dataISO": "2026-10-26",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Caderno",
+      "trabalho": "Não",
+      "conteudo": "Ler pg 126 e responder pg 127 (no caderno)"
     },
     {
       "id": "ativ-175824",
