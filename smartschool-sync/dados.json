@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-11-04T02:50:48.712Z",
+  "atualizadoEm": "2026-11-04T18:21:45.516Z",
   "atividades": [
+    {
+      "id": "ativ-176498",
+      "codigo": "176498",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-11-05",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar o Faça Mais páginas 310 e 311.Tem Matific."
+    },
     {
       "id": "ativ-176389",
       "codigo": "176389",
@@ -121,23 +138,6 @@
       "conteudo": "Realizar páginas 281 e 282. Tem Matific."
     },
     {
-      "id": "ativ-175702",
-      "codigo": "175702",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
-      "dataISO": "2026-10-26",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Caderno",
-      "trabalho": "Não",
-      "conteudo": "Realizar lição no caderno."
-    },
-    {
       "id": "ativ-175625",
       "codigo": "175625",
       "tipo": "atividade",
@@ -155,12 +155,12 @@
       "conteudo": "Ler pg 126 e responder pg 127 (no caderno)"
     },
     {
-      "id": "ativ-175824",
-      "codigo": "175824",
+      "id": "ativ-175702",
+      "codigo": "175702",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-23",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
+      "dataISO": "2026-10-26",
       "lembretesMinutosAntes": [
         1440
       ],
@@ -169,13 +169,13 @@
       "professor": "Daniela Messora Barranco",
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
-      "conteudo": "Realizar atividade no caderno"
+      "conteudo": "Realizar lição no caderno."
     }
   ],
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-e1e4f9553e277668",
+      "id": "com-7e8f60acff544ee5",
       "tipo": "comunicado",
       "titulo": "Alteração de data. Avaliação de Inglês 4ºs anos 3º trimestre - 2026",
       "dataISO": "2026-11-03"
