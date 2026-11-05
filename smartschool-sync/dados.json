@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-04T18:21:45.516Z",
+  "atualizadoEm": "2026-11-05T02:59:22.065Z",
   "atividades": [
     {
       "id": "ativ-176498",
@@ -19,23 +19,6 @@
       "conteudo": "Realizar o Faça Mais páginas 310 e 311.Tem Matific."
     },
     {
-      "id": "ativ-176389",
-      "codigo": "176389",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-11-04",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Bom dia!\n\nRealizar as páginas 304 à 306.Tem Matific."
-    },
-    {
       "id": "ativ-176225",
       "codigo": "176225",
       "tipo": "atividade",
@@ -51,6 +34,23 @@
       "tipoEntrega": "Folha Avulsa",
       "trabalho": "Não",
       "conteudo": "Realizar etapas 3 e 4 da apostila do Relato Pessoal."
+    },
+    {
+      "id": "ativ-176389",
+      "codigo": "176389",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-11-04",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Bom dia!\n\nRealizar as páginas 304 à 306.Tem Matific."
     },
     {
       "id": "ativ-176252",
