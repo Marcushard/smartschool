@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-05T18:25:12.370Z",
+  "atualizadoEm": "2026-11-06T02:59:41.450Z",
   "atividades": [
     {
       "id": "ativ-176498",
@@ -104,23 +104,6 @@
       "conteudo": "Segue material para estudar para a Avaliação I"
     },
     {
-      "id": "ativ-176113",
-      "codigo": "176113",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-29",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Ler e realizar páginas 278 até 282"
-    },
-    {
       "id": "ativ-176115",
       "codigo": "176115",
       "tipo": "atividade",
@@ -136,6 +119,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar páginas 281 e 282. Tem Matific."
+    },
+    {
+      "id": "ativ-176113",
+      "codigo": "176113",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-10-29",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Ler e realizar páginas 278 até 282"
     },
     {
       "id": "ativ-175702",
