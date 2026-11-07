@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-07T02:29:28.874Z",
+  "atualizadoEm": "2026-11-07T16:42:39.635Z",
   "atividades": [
     {
       "id": "ativ-176661",
@@ -155,11 +155,11 @@
       "conteudo": "Realizar páginas 281 e 282. Tem Matific."
     },
     {
-      "id": "ativ-175625",
-      "codigo": "175625",
+      "id": "ativ-175702",
+      "codigo": "175702",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Ciencias",
-      "disciplina": "Ciencias",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
       "dataISO": "2026-10-26",
       "lembretesMinutosAntes": [
         1440
@@ -169,19 +169,19 @@
       "professor": "Daniela Messora Barranco",
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
-      "conteudo": "Ler pg 126 e responder pg 127 (no caderno)"
+      "conteudo": "Realizar lição no caderno."
     }
   ],
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-b3bfe7cb8dda4d76",
+      "id": "com-7693cf64cdbc4ae7",
       "tipo": "comunicado",
       "titulo": "RETIFICAÇÃO DA AVENIDA MATIAS BECK",
       "dataISO": "2026-11-06"
     },
     {
-      "id": "com-8799542dc4bbd331",
+      "id": "com-182ecf666750b723",
       "tipo": "comunicado",
       "titulo": "Atenção às mudanças no trânsito na região da escola",
       "dataISO": "2026-11-06"
