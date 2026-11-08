@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-08T01:58:13.534Z",
+  "atualizadoEm": "2026-11-08T16:53:33.547Z",
   "atividades": [
     {
       "id": "ativ-176661",
@@ -70,23 +70,6 @@
       "conteudo": "Realizar etapas 3 e 4 da apostila do Relato Pessoal."
     },
     {
-      "id": "ativ-176226",
-      "codigo": "176226",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-11-03",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar pgs 298, 299 e 300."
-    },
-    {
       "id": "ativ-176252",
       "codigo": "176252",
       "tipo": "atividade",
@@ -102,6 +85,23 @@
       "tipoEntrega": "Outros",
       "trabalho": "Não",
       "conteudo": "Aproveite para estudar para a avaliação de Geografia!"
+    },
+    {
+      "id": "ativ-176226",
+      "codigo": "176226",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-11-03",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pgs 298, 299 e 300."
     },
     {
       "id": "ativ-175827",
@@ -155,11 +155,11 @@
       "conteudo": "Realizar páginas 281 e 282. Tem Matific."
     },
     {
-      "id": "ativ-175702",
-      "codigo": "175702",
+      "id": "ativ-175625",
+      "codigo": "175625",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
+      "titulo": "Entrega de atividade: Ciencias",
+      "disciplina": "Ciencias",
       "dataISO": "2026-10-26",
       "lembretesMinutosAntes": [
         1440
@@ -169,19 +169,19 @@
       "professor": "Daniela Messora Barranco",
       "tipoEntrega": "Caderno",
       "trabalho": "Não",
-      "conteudo": "Realizar lição no caderno."
+      "conteudo": "Ler pg 126 e responder pg 127 (no caderno)"
     }
   ],
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-7693cf64cdbc4ae7",
+      "id": "com-d3d7ecf968dda64d",
       "tipo": "comunicado",
       "titulo": "RETIFICAÇÃO DA AVENIDA MATIAS BECK",
       "dataISO": "2026-11-06"
     },
     {
-      "id": "com-182ecf666750b723",
+      "id": "com-18dd1447b0db2b6a",
       "tipo": "comunicado",
       "titulo": "Atenção às mudanças no trânsito na região da escola",
       "dataISO": "2026-11-06"
