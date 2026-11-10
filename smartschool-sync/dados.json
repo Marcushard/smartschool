@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T04:26:50.644Z",
+  "atualizadoEm": "2026-11-10T18:24:21.554Z",
   "atividades": [
     {
       "id": "ativ-176728",
@@ -34,6 +34,40 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar páginas 154 e 155"
+    },
+    {
+      "id": "ativ-176810",
+      "codigo": "176810",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
+      "dataISO": "2026-11-13",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Digital",
+      "trabalho": "Não",
+      "conteudo": "https://kahoot.it/challenge/08977083?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794316224451\n\nAproveite para jogar mais uma vez em casa para e estudar a retomada de história."
+    },
+    {
+      "id": "ativ-176812",
+      "codigo": "176812",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-11-11",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pg 322 + Matific."
     },
     {
       "id": "ativ-176726",
@@ -136,40 +170,6 @@
       "tipoEntrega": "Outros",
       "trabalho": "Não",
       "conteudo": "Aproveite para estudar para a avaliação de Geografia!"
-    },
-    {
-      "id": "ativ-175827",
-      "codigo": "175827",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-10-30",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Segue material para estudar para a Avaliação I"
-    },
-    {
-      "id": "ativ-176113",
-      "codigo": "176113",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-10-29",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Ler e realizar páginas 278 até 282"
     }
   ],
   "avaliacoes": [],
