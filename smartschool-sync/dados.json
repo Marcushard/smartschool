@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-11-11T02:26:42.613Z",
+  "atualizadoEm": "2026-11-11T18:15:23.564Z",
   "atividades": [
+    {
+      "id": "ativ-176850",
+      "codigo": "176850",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-11-18",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Segue material de matemática para estudar para prova.\n\nTem Matific."
+    },
     {
       "id": "ativ-176728",
       "codigo": "176728",
@@ -36,6 +53,23 @@
       "conteudo": "https://kahoot.it/challenge/08977083?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794316224451\n\nAproveite para jogar mais uma vez em casa para e estudar a retomada de história."
     },
     {
+      "id": "ativ-176811",
+      "codigo": "176811",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
+      "dataISO": "2026-11-13",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Digital",
+      "trabalho": "Não",
+      "conteudo": "https://kahoot.it/challenge/07149825?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794318661985\n\nAproveite para jogar mais uma vez em casa e estudar a retomada de História"
+    },
+    {
       "id": "ativ-176661",
       "codigo": "176661",
       "tipo": "atividade",
@@ -53,21 +87,21 @@
       "conteudo": "Realizar páginas 154 e 155"
     },
     {
-      "id": "ativ-176811",
-      "codigo": "176811",
+      "id": "ativ-176847",
+      "codigo": "176847",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
-      "dataISO": "2026-11-13",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-11-12",
       "lembretesMinutosAntes": [
         1440
       ],
       "realizada": false,
       "situacao": "Padrão",
       "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Digital",
+      "tipoEntrega": "Livro",
       "trabalho": "Não",
-      "conteudo": "https://kahoot.it/challenge/07149825?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794318661985\n\nAproveite para jogar mais uma vez em casa e estudar a retomada de História"
+      "conteudo": "Realizar páginas 298 e 299"
     },
     {
       "id": "ativ-176812",
@@ -121,23 +155,6 @@
       "conteudo": "Realizar o Faça Mais páginas 310 e 311.Tem Matific."
     },
     {
-      "id": "ativ-176389",
-      "codigo": "176389",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-11-04",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Bom dia!\n\nRealizar as páginas 304 à 306.Tem Matific."
-    },
-    {
       "id": "ativ-176225",
       "codigo": "176225",
       "tipo": "atividade",
@@ -153,29 +170,12 @@
       "tipoEntrega": "Folha Avulsa",
       "trabalho": "Não",
       "conteudo": "Realizar etapas 3 e 4 da apostila do Relato Pessoal."
-    },
-    {
-      "id": "ativ-176252",
-      "codigo": "176252",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Geografia",
-      "disciplina": "Geografia",
-      "dataISO": "2026-11-03",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Outros",
-      "trabalho": "Não",
-      "conteudo": "Aproveite para estudar para a avaliação de Geografia!"
     }
   ],
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-8c5e822e9df27b44",
+      "id": "com-3434049f8c7dbb2f",
       "tipo": "comunicado",
       "titulo": "Mostra Cultural 4ºs anos - horários / 2026",
       "dataISO": "2026-11-09"
