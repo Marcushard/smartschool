@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T18:24:21.554Z",
+  "atualizadoEm": "2026-11-11T02:26:42.613Z",
   "atividades": [
     {
       "id": "ativ-176728",
@@ -19,6 +19,23 @@
       "conteudo": "Realizar a leitura das páginas 148 e 149. Responder questões no caderno."
     },
     {
+      "id": "ativ-176810",
+      "codigo": "176810",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
+      "dataISO": "2026-11-13",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Digital",
+      "trabalho": "Não",
+      "conteudo": "https://kahoot.it/challenge/08977083?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794316224451\n\nAproveite para jogar mais uma vez em casa para e estudar a retomada de história."
+    },
+    {
       "id": "ativ-176661",
       "codigo": "176661",
       "tipo": "atividade",
@@ -36,8 +53,8 @@
       "conteudo": "Realizar páginas 154 e 155"
     },
     {
-      "id": "ativ-176810",
-      "codigo": "176810",
+      "id": "ativ-176811",
+      "codigo": "176811",
       "tipo": "atividade",
       "titulo": "Entrega de atividade: Historia",
       "disciplina": "Historia",
@@ -50,7 +67,7 @@
       "professor": "Daniela Messora Barranco",
       "tipoEntrega": "Digital",
       "trabalho": "Não",
-      "conteudo": "https://kahoot.it/challenge/08977083?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794316224451\n\nAproveite para jogar mais uma vez em casa para e estudar a retomada de história."
+      "conteudo": "https://kahoot.it/challenge/07149825?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794318661985\n\nAproveite para jogar mais uma vez em casa e estudar a retomada de História"
     },
     {
       "id": "ativ-176812",
@@ -136,23 +153,6 @@
       "tipoEntrega": "Folha Avulsa",
       "trabalho": "Não",
       "conteudo": "Realizar etapas 3 e 4 da apostila do Relato Pessoal."
-    },
-    {
-      "id": "ativ-176226",
-      "codigo": "176226",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-11-03",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar pgs 298, 299 e 300."
     },
     {
       "id": "ativ-176252",
