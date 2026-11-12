@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T03:31:08.533Z",
+  "atualizadoEm": "2026-11-12T18:40:43.079Z",
   "atividades": [
     {
       "id": "ativ-176850",
@@ -53,23 +53,6 @@
       "conteudo": "https://kahoot.it/challenge/08977083?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794316224451\n\nAproveite para jogar mais uma vez em casa para e estudar a retomada de história."
     },
     {
-      "id": "ativ-176811",
-      "codigo": "176811",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
-      "dataISO": "2026-11-13",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Digital",
-      "trabalho": "Não",
-      "conteudo": "https://kahoot.it/challenge/07149825?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794318661985\n\nAproveite para jogar mais uma vez em casa e estudar a retomada de História"
-    },
-    {
       "id": "ativ-176661",
       "codigo": "176661",
       "tipo": "atividade",
@@ -85,6 +68,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar páginas 154 e 155"
+    },
+    {
+      "id": "ativ-176811",
+      "codigo": "176811",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
+      "dataISO": "2026-11-13",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Digital",
+      "trabalho": "Não",
+      "conteudo": "https://kahoot.it/challenge/07149825?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794318661985\n\nAproveite para jogar mais uma vez em casa e estudar a retomada de História"
     },
     {
       "id": "ativ-176847",
