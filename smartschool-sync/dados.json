@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-13T03:04:34.746Z",
+  "atualizadoEm": "2026-11-13T18:20:43.240Z",
   "atividades": [
     {
       "id": "ativ-176850",
@@ -175,6 +175,12 @@
   "avaliacoes": [],
   "comunicados": [
     {
+      "id": "com-82aa12355e4242a7",
+      "tipo": "comunicado",
+      "titulo": "Informação trânsito Mostra Cultural 2026",
+      "dataISO": "2026-11-13"
+    },
+    {
       "id": "com-fe3df2e1717a5ba9",
       "tipo": "comunicado",
       "titulo": "BAZAR DE NATAL SOLIDÁRIO – MOSTRA CULTURAL",
@@ -227,12 +233,6 @@
       "tipo": "comunicado",
       "titulo": "Lições de casa e materiais escolares - 4º e 5º - 2026",
       "dataISO": "2026-10-21"
-    },
-    {
-      "id": "com-a06d2bafac5f9cac",
-      "tipo": "comunicado",
-      "titulo": "Lembrete 1 - Rematrículas 2027",
-      "dataISO": "2026-10-20"
     }
   ]
 }
