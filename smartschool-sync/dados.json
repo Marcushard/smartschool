@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-15T02:19:07.460Z",
+  "atualizadoEm": "2026-11-15T17:31:02.571Z",
   "atividades": [
     {
       "id": "ativ-176850",
@@ -53,23 +53,6 @@
       "conteudo": "https://kahoot.it/challenge/08977083?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794316224451\n\nAproveite para jogar mais uma vez em casa para e estudar a retomada de história."
     },
     {
-      "id": "ativ-176661",
-      "codigo": "176661",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Geografia",
-      "disciplina": "Geografia",
-      "dataISO": "2026-11-13",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar páginas 154 e 155"
-    },
-    {
       "id": "ativ-176811",
       "codigo": "176811",
       "tipo": "atividade",
@@ -85,6 +68,23 @@
       "tipoEntrega": "Digital",
       "trabalho": "Não",
       "conteudo": "https://kahoot.it/challenge/07149825?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794318661985\n\nAproveite para jogar mais uma vez em casa e estudar a retomada de História"
+    },
+    {
+      "id": "ativ-176661",
+      "codigo": "176661",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Geografia",
+      "disciplina": "Geografia",
+      "dataISO": "2026-11-13",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar páginas 154 e 155"
     },
     {
       "id": "ativ-176847",
@@ -175,7 +175,7 @@
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-83772ad19478ee96",
+      "id": "com-0f6df06a4e06dddf",
       "tipo": "comunicado",
       "titulo": "Informação trânsito Mostra Cultural 2026",
       "dataISO": "2026-11-13"
