@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-11-16T02:30:44.431Z",
+  "atualizadoEm": "2026-11-16T20:45:51.988Z",
   "atividades": [
+    {
+      "id": "ativ-177056",
+      "codigo": "177056",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Ciencias",
+      "disciplina": "Ciencias",
+      "dataISO": "2026-11-23",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pg 158."
+    },
     {
       "id": "ativ-176850",
       "codigo": "176850",
@@ -17,6 +34,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Segue material de matemática para estudar para prova.\n\nTem Matific."
+    },
+    {
+      "id": "ativ-177053",
+      "codigo": "177053",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-11-17",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pgs 331 ( exercício 3 no caderno) e 332.\n\nTem Matific."
     },
     {
       "id": "ativ-176728",
@@ -53,23 +87,6 @@
       "conteudo": "https://kahoot.it/challenge/08977083?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794316224451\n\nAproveite para jogar mais uma vez em casa para e estudar a retomada de história."
     },
     {
-      "id": "ativ-176811",
-      "codigo": "176811",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
-      "dataISO": "2026-11-13",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Digital",
-      "trabalho": "Não",
-      "conteudo": "https://kahoot.it/challenge/07149825?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794318661985\n\nAproveite para jogar mais uma vez em casa e estudar a retomada de História"
-    },
-    {
       "id": "ativ-176661",
       "codigo": "176661",
       "tipo": "atividade",
@@ -85,6 +102,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar páginas 154 e 155"
+    },
+    {
+      "id": "ativ-176811",
+      "codigo": "176811",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
+      "dataISO": "2026-11-13",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Digital",
+      "trabalho": "Não",
+      "conteudo": "https://kahoot.it/challenge/07149825?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794318661985\n\nAproveite para jogar mais uma vez em casa e estudar a retomada de História"
     },
     {
       "id": "ativ-176847",
@@ -136,40 +170,6 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar página 316 + Matific."
-    },
-    {
-      "id": "ativ-176498",
-      "codigo": "176498",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-11-05",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar o Faça Mais páginas 310 e 311.Tem Matific."
-    },
-    {
-      "id": "ativ-176225",
-      "codigo": "176225",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-11-04",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Folha Avulsa",
-      "trabalho": "Não",
-      "conteudo": "Realizar etapas 3 e 4 da apostila do Relato Pessoal."
     }
   ],
   "avaliacoes": [],
