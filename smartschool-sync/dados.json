@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-11-17T04:55:09.253Z",
+  "atualizadoEm": "2026-11-17T19:30:33.549Z",
   "atividades": [
+    {
+      "id": "ativ-177113",
+      "codigo": "177113",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Historia",
+      "disciplina": "Historia",
+      "dataISO": "2026-11-24",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pgs 152 e 153."
+    },
     {
       "id": "ativ-177056",
       "codigo": "177056",
@@ -34,6 +51,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Segue material de matemática para estudar para prova.\n\nTem Matific."
+    },
+    {
+      "id": "ativ-177116",
+      "codigo": "177116",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-11-18",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Digital",
+      "trabalho": "Não",
+      "conteudo": "Tem Matific.\n\nEstudar para prova!"
     },
     {
       "id": "ativ-177053",
@@ -70,23 +104,6 @@
       "conteudo": "Realizar a leitura das páginas 148 e 149. Responder questões no caderno."
     },
     {
-      "id": "ativ-176661",
-      "codigo": "176661",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Geografia",
-      "disciplina": "Geografia",
-      "dataISO": "2026-11-13",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar páginas 154 e 155"
-    },
-    {
       "id": "ativ-176810",
       "codigo": "176810",
       "tipo": "atividade",
@@ -102,6 +119,23 @@
       "tipoEntrega": "Digital",
       "trabalho": "Não",
       "conteudo": "https://kahoot.it/challenge/08977083?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794316224451\n\nAproveite para jogar mais uma vez em casa para e estudar a retomada de história."
+    },
+    {
+      "id": "ativ-176661",
+      "codigo": "176661",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Geografia",
+      "disciplina": "Geografia",
+      "dataISO": "2026-11-13",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar páginas 154 e 155"
     },
     {
       "id": "ativ-176811",
@@ -136,44 +170,16 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar páginas 298 e 299"
-    },
-    {
-      "id": "ativ-176812",
-      "codigo": "176812",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-11-11",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar pg 322 + Matific."
-    },
-    {
-      "id": "ativ-176726",
-      "codigo": "176726",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-11-10",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar página 316 + Matific."
     }
   ],
   "avaliacoes": [],
   "comunicados": [
+    {
+      "id": "com-1625a9f41eaec6ec",
+      "tipo": "comunicado",
+      "titulo": "Retorno da maquete 4º ano - 2026",
+      "dataISO": "2026-11-16"
+    },
     {
       "id": "com-0f6df06a4e06dddf",
       "tipo": "comunicado",
@@ -227,12 +233,6 @@
       "tipo": "comunicado",
       "titulo": "Reiteração da solicitação de atualização dos documentos dos alunos",
       "dataISO": "2026-10-29"
-    },
-    {
-      "id": "com-3bb2eb39dcb098e5",
-      "tipo": "comunicado",
-      "titulo": "Lições de casa e materiais escolares - 4º e 5º - 2026",
-      "dataISO": "2026-10-21"
     }
   ]
 }
