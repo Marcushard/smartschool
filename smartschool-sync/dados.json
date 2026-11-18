@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-18T03:59:15.048Z",
+  "atualizadoEm": "2026-11-18T19:12:53.611Z",
   "atividades": [
     {
       "id": "ativ-177113",
@@ -34,6 +34,40 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar pg 158."
+    },
+    {
+      "id": "ativ-177162",
+      "codigo": "177162",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-11-19",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pgs 336 e 337 + Matific."
+    },
+    {
+      "id": "ativ-177159",
+      "codigo": "177159",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-11-19",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pgs 332 e 333.\n\nDesafio do Leitor de Novembro"
     },
     {
       "id": "ativ-176850",
@@ -104,23 +138,6 @@
       "conteudo": "Realizar a leitura das páginas 148 e 149. Responder questões no caderno."
     },
     {
-      "id": "ativ-176810",
-      "codigo": "176810",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
-      "dataISO": "2026-11-13",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Digital",
-      "trabalho": "Não",
-      "conteudo": "https://kahoot.it/challenge/08977083?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794316224451\n\nAproveite para jogar mais uma vez em casa para e estudar a retomada de história."
-    },
-    {
       "id": "ativ-176811",
       "codigo": "176811",
       "tipo": "atividade",
@@ -153,23 +170,6 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar páginas 154 e 155"
-    },
-    {
-      "id": "ativ-176847",
-      "codigo": "176847",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-11-12",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar páginas 298 e 299"
     }
   ],
   "avaliacoes": [],
