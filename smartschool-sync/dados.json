@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T03:55:54.056Z",
+  "atualizadoEm": "2026-11-19T19:17:35.574Z",
   "atividades": [
     {
       "id": "ativ-177113",
@@ -175,6 +175,18 @@
   "avaliacoes": [],
   "comunicados": [
     {
+      "id": "com-05ab787cc1b3a8af",
+      "tipo": "comunicado",
+      "titulo": "Feriado Consciência Negra - Ed. Infantil ao Ensino médio 2026",
+      "dataISO": "2026-11-19"
+    },
+    {
+      "id": "com-09b07c015ca65972",
+      "tipo": "comunicado",
+      "titulo": "Encerramento dos treinamentos de quadra - 2026",
+      "dataISO": "2026-11-19"
+    },
+    {
       "id": "com-c54054148a265c5f",
       "tipo": "comunicado",
       "titulo": "Retorno da maquete 4º ano - 2026",
@@ -221,18 +233,6 @@
       "tipo": "comunicado",
       "titulo": "Feriado Finados",
       "dataISO": "2026-10-30"
-    },
-    {
-      "id": "com-ac64cd795fbf10ec",
-      "tipo": "comunicado",
-      "titulo": "Trabalho de Arte- Boneca Abayomi- 4º ano 2026 - 3º tri.",
-      "dataISO": "2026-10-30"
-    },
-    {
-      "id": "com-3514dcc61f9f7da8",
-      "tipo": "comunicado",
-      "titulo": "Reiteração da solicitação de atualização dos documentos dos alunos",
-      "dataISO": "2026-10-29"
     }
   ]
 }
