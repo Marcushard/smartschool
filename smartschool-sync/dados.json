@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-20T03:49:15.838Z",
+  "atualizadoEm": "2026-11-20T18:56:44.615Z",
   "atividades": [
     {
       "id": "ativ-177113",
@@ -36,23 +36,6 @@
       "conteudo": "Realizar pg 158."
     },
     {
-      "id": "ativ-177162",
-      "codigo": "177162",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-11-19",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar pgs 336 e 337 + Matific."
-    },
-    {
       "id": "ativ-177159",
       "codigo": "177159",
       "tipo": "atividade",
@@ -68,6 +51,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar pgs 332 e 333.\n\nDesafio do Leitor de Novembro"
+    },
+    {
+      "id": "ativ-177162",
+      "codigo": "177162",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-11-19",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pgs 336 e 337 + Matific."
     },
     {
       "id": "ativ-176850",
