@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T19:17:35.574Z",
+  "atualizadoEm": "2026-11-20T03:49:15.838Z",
   "atividades": [
     {
       "id": "ativ-177113",
@@ -36,23 +36,6 @@
       "conteudo": "Realizar pg 158."
     },
     {
-      "id": "ativ-177159",
-      "codigo": "177159",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-11-19",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar pgs 332 e 333.\n\nDesafio do Leitor de Novembro"
-    },
-    {
       "id": "ativ-177162",
       "codigo": "177162",
       "tipo": "atividade",
@@ -68,6 +51,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar pgs 336 e 337 + Matific."
+    },
+    {
+      "id": "ativ-177159",
+      "codigo": "177159",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-11-19",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pgs 332 e 333.\n\nDesafio do Leitor de Novembro"
     },
     {
       "id": "ativ-176850",
@@ -155,11 +155,11 @@
       "conteudo": "https://kahoot.it/challenge/08977083?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794316224451\n\nAproveite para jogar mais uma vez em casa para e estudar a retomada de história."
     },
     {
-      "id": "ativ-176811",
-      "codigo": "176811",
+      "id": "ativ-176661",
+      "codigo": "176661",
       "tipo": "atividade",
-      "titulo": "Entrega de atividade: Historia",
-      "disciplina": "Historia",
+      "titulo": "Entrega de atividade: Geografia",
+      "disciplina": "Geografia",
       "dataISO": "2026-11-13",
       "lembretesMinutosAntes": [
         1440
@@ -167,21 +167,21 @@
       "realizada": false,
       "situacao": "Padrão",
       "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Digital",
+      "tipoEntrega": "Livro",
       "trabalho": "Não",
-      "conteudo": "https://kahoot.it/challenge/07149825?challenge-id=729f8120-ab02-4b2d-92f4-a840aa3dba28_1794318661985\n\nAproveite para jogar mais uma vez em casa e estudar a retomada de História"
+      "conteudo": "Realizar páginas 154 e 155"
     }
   ],
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-05ab787cc1b3a8af",
+      "id": "com-d01a54d6567ca8bd",
       "tipo": "comunicado",
       "titulo": "Feriado Consciência Negra - Ed. Infantil ao Ensino médio 2026",
       "dataISO": "2026-11-19"
     },
     {
-      "id": "com-09b07c015ca65972",
+      "id": "com-7d5c15e51dab6c4a",
       "tipo": "comunicado",
       "titulo": "Encerramento dos treinamentos de quadra - 2026",
       "dataISO": "2026-11-19"
