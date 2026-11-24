@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-23T22:20:49.027Z",
+  "atualizadoEm": "2026-11-24T06:41:54.447Z",
   "atividades": [
     {
       "id": "ativ-177292",
@@ -70,23 +70,6 @@
       "conteudo": "Realizar pg 158."
     },
     {
-      "id": "ativ-177159",
-      "codigo": "177159",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-11-19",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar pgs 332 e 333.\n\nDesafio do Leitor de Novembro"
-    },
-    {
       "id": "ativ-177162",
       "codigo": "177162",
       "tipo": "atividade",
@@ -102,6 +85,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar pgs 336 e 337 + Matific."
+    },
+    {
+      "id": "ativ-177159",
+      "codigo": "177159",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-11-19",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pgs 332 e 333.\n\nDesafio do Leitor de Novembro"
     },
     {
       "id": "ativ-176850",
@@ -175,7 +175,7 @@
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-468f056908e01a48",
+      "id": "com-7547db46ce55d2ea",
       "tipo": "comunicado",
       "titulo": "Encerramento do Ano Letivo e Entrega de Materiais - 4°ano e 5°ano (2026)",
       "dataISO": "2026-11-23"
