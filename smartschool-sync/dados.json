@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-25T20:20:23.791Z",
+  "atualizadoEm": "2026-11-26T04:42:47.638Z",
   "atividades": [
     {
       "id": "ativ-177292",
@@ -19,23 +19,6 @@
       "conteudo": "Realizar páginas 162 e 163 no caderno."
     },
     {
-      "id": "ativ-177368",
-      "codigo": "177368",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-11-26",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Digital",
-      "trabalho": "Não",
-      "conteudo": "Tem Matific"
-    },
-    {
       "id": "ativ-177365",
       "codigo": "177365",
       "tipo": "atividade",
@@ -51,6 +34,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar a leitura da pg 339."
+    },
+    {
+      "id": "ativ-177368",
+      "codigo": "177368",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-11-26",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Digital",
+      "trabalho": "Não",
+      "conteudo": "Tem Matific"
     },
     {
       "id": "ativ-177338",
@@ -121,23 +121,6 @@
       "conteudo": "Realizar pg 158."
     },
     {
-      "id": "ativ-177162",
-      "codigo": "177162",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Matematica",
-      "disciplina": "Matematica",
-      "dataISO": "2026-11-19",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar pgs 336 e 337 + Matific."
-    },
-    {
       "id": "ativ-177159",
       "codigo": "177159",
       "tipo": "atividade",
@@ -153,6 +136,23 @@
       "tipoEntrega": "Livro",
       "trabalho": "Não",
       "conteudo": "Realizar pgs 332 e 333.\n\nDesafio do Leitor de Novembro"
+    },
+    {
+      "id": "ativ-177162",
+      "codigo": "177162",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Matematica",
+      "disciplina": "Matematica",
+      "dataISO": "2026-11-19",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar pgs 336 e 337 + Matific."
     },
     {
       "id": "ativ-176850",
@@ -175,7 +175,7 @@
   "avaliacoes": [],
   "comunicados": [
     {
-      "id": "com-644ec7afa766fc67",
+      "id": "com-ed86a01c369daa65",
       "tipo": "comunicado",
       "titulo": "Informação sobre os livros – Lista de Material",
       "dataISO": "2026-11-24"
