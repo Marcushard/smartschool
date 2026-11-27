@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T04:40:36.963Z",
+  "atualizadoEm": "2026-11-27T19:45:43.878Z",
   "atividades": [
     {
       "id": "ativ-177292",
@@ -19,23 +19,6 @@
       "conteudo": "Realizar páginas 162 e 163 no caderno."
     },
     {
-      "id": "ativ-177365",
-      "codigo": "177365",
-      "tipo": "atividade",
-      "titulo": "Entrega de atividade: Lingua Portuguesa",
-      "disciplina": "Lingua Portuguesa",
-      "dataISO": "2026-11-26",
-      "lembretesMinutosAntes": [
-        1440
-      ],
-      "realizada": false,
-      "situacao": "Padrão",
-      "professor": "Daniela Messora Barranco",
-      "tipoEntrega": "Livro",
-      "trabalho": "Não",
-      "conteudo": "Realizar a leitura da pg 339."
-    },
-    {
       "id": "ativ-177368",
       "codigo": "177368",
       "tipo": "atividade",
@@ -51,6 +34,23 @@
       "tipoEntrega": "Digital",
       "trabalho": "Não",
       "conteudo": "Tem Matific"
+    },
+    {
+      "id": "ativ-177365",
+      "codigo": "177365",
+      "tipo": "atividade",
+      "titulo": "Entrega de atividade: Lingua Portuguesa",
+      "disciplina": "Lingua Portuguesa",
+      "dataISO": "2026-11-26",
+      "lembretesMinutosAntes": [
+        1440
+      ],
+      "realizada": false,
+      "situacao": "Padrão",
+      "professor": "Daniela Messora Barranco",
+      "tipoEntrega": "Livro",
+      "trabalho": "Não",
+      "conteudo": "Realizar a leitura da pg 339."
     },
     {
       "id": "ativ-177338",
